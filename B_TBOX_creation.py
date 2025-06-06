@@ -1,21 +1,18 @@
 from rdflib import Graph, Literal, Namespace, RDF, RDFS, URIRef
 from rdflib.namespace import XSD
 
-# Create a graph for our TBOX
 tbox_graph = Graph()
 
-# Define namespaces
 RESEARCH = Namespace("http://research.publications.com/ontology#")
 tbox_graph.bind("research", RESEARCH)
 tbox_graph.bind("rdfs", RDFS)
 tbox_graph.bind("rdf", RDF)
 tbox_graph.bind("xsd", XSD)
 
-# Define Classes
 # Main classes
 Paper = RESEARCH.Paper
 Author = RESEARCH.Author
-Event = RESEARCH.Event  # New superclass for Conference and Workshop
+Event = RESEARCH.Event 
 Conference = RESEARCH.Conference
 Workshop = RESEARCH.Workshop
 Journal = RESEARCH.Journal
@@ -45,12 +42,12 @@ tbox_graph.add((Event, RDFS.label, Literal("Event")))
 tbox_graph.add((Event, RDFS.comment, Literal("An academic event (conference or workshop)")))
 
 tbox_graph.add((Conference, RDF.type, RDFS.Class))
-tbox_graph.add((Conference, RDFS.subClassOf, Event))  # Conference is a subclass of Event
+tbox_graph.add((Conference, RDFS.subClassOf, Event)) 
 tbox_graph.add((Conference, RDFS.label, Literal("Conference")))
 tbox_graph.add((Conference, RDFS.comment, Literal("A well-established research forum")))
 
 tbox_graph.add((Workshop, RDF.type, RDFS.Class))
-tbox_graph.add((Workshop, RDFS.subClassOf, Event))  # Workshop is a subclass of Event
+tbox_graph.add((Workshop, RDFS.subClassOf, Event))  
 tbox_graph.add((Workshop, RDFS.label, Literal("Workshop")))
 tbox_graph.add((Workshop, RDFS.comment, Literal("A forum for new research trends")))
 
@@ -101,7 +98,6 @@ tbox_graph.add((Company, RDFS.subClassOf, Organization))
 tbox_graph.add((Company, RDFS.label, Literal("Company")))
 tbox_graph.add((Company, RDFS.comment, Literal("A company that authors are affiliated with")))
 
-# Define Properties
 # Object Properties
 writtenBy = RESEARCH.writtenBy
 correspondingAuthor = RESEARCH.correspondingAuthor
@@ -118,7 +114,7 @@ assignedTo = RESEARCH.assignedTo
 publishedInProceedings = RESEARCH.publishedInProceedings
 publishedInJournal = RESEARCH.publishedInJournal
 affiliatedTo = RESEARCH.affiliatedTo
-proceedingsOf = RESEARCH.proceedingsOf  # New property
+proceedingsOf = RESEARCH.proceedingsOf  
 
 # Data Properties
 hasAbstract = RESEARCH.hasAbstract
@@ -129,8 +125,8 @@ hasStartDate = RESEARCH.hasStartDate
 hasEndDate = RESEARCH.hasEndDate
 reviewContent = RESEARCH.reviewContent
 grade = RESEARCH.grade
-volumeNumber = RESEARCH.volumeNumber  # New property
-volumeYear = RESEARCH.volumeYear      # New property
+volumeNumber = RESEARCH.volumeNumber  
+volumeYear = RESEARCH.volumeYear     
 
 # Add Object Properties
 tbox_graph.add((writtenBy, RDF.type, RDF.Property))
@@ -176,7 +172,6 @@ tbox_graph.add((includesPaper, RDFS.domain, Proceedings))
 tbox_graph.add((includesPaper, RDFS.range, Paper))
 tbox_graph.add((includesPaper, RDFS.label, Literal("includes paper")))
 
-# New property: proceedingsOf
 tbox_graph.add((proceedingsOf, RDF.type, RDF.Property))
 tbox_graph.add((proceedingsOf, RDFS.domain, Proceedings))
 tbox_graph.add((proceedingsOf, RDFS.range, Edition))
@@ -261,7 +256,7 @@ tbox_graph.add((grade, RDFS.domain, Review))
 tbox_graph.add((grade, RDFS.range, XSD.integer))
 tbox_graph.add((grade, RDFS.label, Literal("grade")))
 
-# New data properties for volumes
+
 tbox_graph.add((volumeNumber, RDF.type, RDF.Property))
 tbox_graph.add((volumeNumber, RDFS.domain, Volume))
 tbox_graph.add((volumeNumber, RDFS.range, XSD.integer))
