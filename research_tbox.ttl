@@ -1,0 +1,208 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix research: <http://research.publications.com/ontology#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+research:Author a rdfs:Class ;
+    rdfs:label "Author" ;
+    rdfs:comment "An author of research papers" .
+
+research:City a rdfs:Class ;
+    rdfs:label "City" ;
+    rdfs:comment "A city where a conference/workshop is held" .
+
+research:Company a rdfs:Class ;
+    rdfs:label "Company" ;
+    rdfs:comment "A company that authors are affiliated with" ;
+    rdfs:subClassOf research:Organization .
+
+research:Conference a rdfs:Class ;
+    rdfs:label "Conference" ;
+    rdfs:comment "A well-established research forum" ;
+    rdfs:subClassOf research:Event .
+
+research:Edition a rdfs:Class ;
+    rdfs:label "Edition" ;
+    rdfs:comment "An edition of a conference or workshop" .
+
+research:Event a rdfs:Class ;
+    rdfs:label "Event" ;
+    rdfs:comment "An academic event (conference or workshop)" .
+
+research:Journal a rdfs:Class ;
+    rdfs:label "Journal" ;
+    rdfs:comment "A periodical publication for research papers" .
+
+research:Keyword a rdfs:Class ;
+    rdfs:label "Keyword" ;
+    rdfs:comment "A keyword describing paper topics" .
+
+research:Organization a rdfs:Class ;
+    rdfs:label "Organization" ;
+    rdfs:comment "An organization that authors are affiliated with" .
+
+research:Paper a rdfs:Class ;
+    rdfs:label "Paper" ;
+    rdfs:comment "A research paper written by authors" .
+
+research:Proceedings a rdfs:Class ;
+    rdfs:label "Proceedings" ;
+    rdfs:comment "Published records of papers from a conference/workshop edition" .
+
+research:Review a rdfs:Class ;
+    rdfs:label "Review" ;
+    rdfs:comment "A review of a paper" .
+
+research:Reviewer a rdfs:Class ;
+    rdfs:label "Reviewer" ;
+    rdfs:comment "A scientist who reviews papers" ;
+    rdfs:subClassOf research:Author .
+
+research:University a rdfs:Class ;
+    rdfs:label "University" ;
+    rdfs:comment "A university that authors are affiliated with" ;
+    rdfs:subClassOf research:Organization .
+
+research:Volume a rdfs:Class ;
+    rdfs:label "Volume" ;
+    rdfs:comment "A volume of a journal" .
+
+research:Workshop a rdfs:Class ;
+    rdfs:label "Workshop" ;
+    rdfs:comment "A forum for new research trends" ;
+    rdfs:subClassOf research:Event .
+
+research:affiliatedTo a rdf:Property ;
+    rdfs:label "affiliated to" ;
+    rdfs:comment "Indicates author affiliation to university or company" ;
+    rdfs:domain research:Author ;
+    rdfs:range research:Organization .
+
+research:assignedTo a rdf:Property ;
+    rdfs:label "assigned to" ;
+    rdfs:comment "Assigns reviewers to papers. Constraint: authors cannot review their own papers (enforced at application level)" ;
+    rdfs:domain research:Paper ;
+    rdfs:range research:Reviewer .
+
+research:cites a rdf:Property ;
+    rdfs:label "cites" ;
+    rdfs:domain research:Paper ;
+    rdfs:range research:Paper .
+
+research:correspondingAuthor a rdf:Property ;
+    rdfs:label "corresponding author" ;
+    rdfs:domain research:Paper ;
+    rdfs:range research:Author ;
+    rdfs:subPropertyOf research:writtenBy .
+
+research:grade a rdf:Property ;
+    rdfs:label "grade" ;
+    rdfs:domain research:Review ;
+    rdfs:range xsd:integer .
+
+research:hasAbstract a rdf:Property ;
+    rdfs:label "has abstract" ;
+    rdfs:domain research:Paper ;
+    rdfs:range xsd:string .
+
+research:hasEdition a rdf:Property ;
+    rdfs:label "has edition" ;
+    rdfs:domain research:Event ;
+    rdfs:range research:Edition .
+
+research:hasEndDate a rdf:Property ;
+    rdfs:label "has end date" ;
+    rdfs:domain research:Edition ;
+    rdfs:range xsd:date .
+
+research:hasKeyword a rdf:Property ;
+    rdfs:label "has keyword" ;
+    rdfs:domain research:Paper ;
+    rdfs:range research:Keyword .
+
+research:hasName a rdf:Property ;
+    rdfs:label "has name" ;
+    rdfs:range xsd:string .
+
+research:hasStartDate a rdf:Property ;
+    rdfs:label "has start date" ;
+    rdfs:domain research:Edition ;
+    rdfs:range xsd:date .
+
+research:hasTitle a rdf:Property ;
+    rdfs:label "has title" ;
+    rdfs:domain research:Paper ;
+    rdfs:range xsd:string .
+
+research:hasVolume a rdf:Property ;
+    rdfs:label "has volume" ;
+    rdfs:domain research:Journal ;
+    rdfs:range research:Volume .
+
+research:hasYear a rdf:Property ;
+    rdfs:label "has year" ;
+    rdfs:domain research:Edition ;
+    rdfs:range xsd:integer .
+
+research:heldIn a rdf:Property ;
+    rdfs:label "held in" ;
+    rdfs:domain research:Edition ;
+    rdfs:range research:City .
+
+research:includesPaper a rdf:Property ;
+    rdfs:label "includes paper" ;
+    rdfs:domain research:Proceedings ;
+    rdfs:range research:Paper .
+
+research:proceedingsOf a rdf:Property ;
+    rdfs:label "proceedings of" ;
+    rdfs:comment "Links proceedings to the edition they document" ;
+    rdfs:domain research:Proceedings ;
+    rdfs:range research:Edition .
+
+research:publishedInJournal a rdf:Property ;
+    rdfs:label "published in journal" ;
+    rdfs:domain research:Paper ;
+    rdfs:range research:Volume ;
+    rdfs:subPropertyOf research:publishedIn .
+
+research:publishedInProceedings a rdf:Property ;
+    rdfs:label "published in proceedings" ;
+    rdfs:domain research:Paper ;
+    rdfs:range research:Proceedings ;
+    rdfs:subPropertyOf research:publishedIn .
+
+research:reviewContent a rdf:Property ;
+    rdfs:label "review content" ;
+    rdfs:domain research:Review ;
+    rdfs:range xsd:string .
+
+research:reviewOf a rdf:Property ;
+    rdfs:label "review of" ;
+    rdfs:domain research:Review ;
+    rdfs:range research:Paper .
+
+research:volumeNumber a rdf:Property ;
+    rdfs:label "volume number" ;
+    rdfs:domain research:Volume ;
+    rdfs:range xsd:integer .
+
+research:volumeYear a rdf:Property ;
+    rdfs:label "volume year" ;
+    rdfs:domain research:Volume ;
+    rdfs:range xsd:integer .
+
+research:writtenByReviewer a rdf:Property ;
+    rdfs:label "written by reviewer" ;
+    rdfs:domain research:Review ;
+    rdfs:range research:Reviewer .
+
+research:writtenBy a rdf:Property ;
+    rdfs:label "written by" ;
+    rdfs:domain research:Paper ;
+    rdfs:range research:Author .
+
+research:publishedIn a rdf:Property ;
+    rdfs:label "published in" ;
+    rdfs:domain research:Paper .
+
