@@ -1,0 +1,881 @@
+http://research.publications.com/instance#Paper_64687638	http://research.publications.com/ontology#publishedInJournal	http://research.publications.com/instance#Volume_54edc6de-9e78-4c09-9b19-3c5fc137ccaf
+http://research.publications.com/instance#Proceedings_Edition_02c49abf-1e0e-462e-9284-00941d95280f	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://research.publications.com/ontology#Proceedings
+http://research.publications.com/instance#Volume_0e8840e7-d5de-4493-bc25-3eb578ce2ad2	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://research.publications.com/ontology#Volume
+http://research.publications.com/instance#Paper_154462421	http://research.publications.com/ontology#writtenBy	http://research.publications.com/instance#Author_115725224
+http://research.publications.com/instance#Conference_3ad06da2-9dec-47f0-8d75-44149453c3a4	http://research.publications.com/ontology#hasEdition	http://research.publications.com/instance#Edition_73f285d1-6ce2-4944-a172-7aa892e8f5a9
+http://research.publications.com/instance#Edition_42902a3f-f3fa-4675-9b61-9f978392bbc7	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://research.publications.com/ontology#Edition
+http://research.publications.com/instance#Volume_5ef58b87-fab3-4387-b202-ad95dcb98778	http://research.publications.com/ontology#hasYear	2022
+http://research.publications.com/instance#Edition_dbff5484-72fa-4af6-984f-02c83b92728e	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://research.publications.com/ontology#Edition
+http://research.publications.com/instance#Review_131065985_2085707060	http://research.publications.com/ontology#grade	4
+http://research.publications.com/instance#Paper_133790351	http://research.publications.com/ontology#hasKeyword	http://research.publications.com/instance#Keyword_machine_learning
+http://research.publications.com/instance#Edition_80baa809-ad01-4c03-a17a-c57eacae5c1b	http://research.publications.com/ontology#hasEndDate	1940-01-22
+http://research.publications.com/ontology#hasAbstract	http://www.w3.org/2000/01/rdf-schema#range	http://www.w3.org/2001/XMLSchema#string
+http://research.publications.com/instance#Paper_87417287	http://research.publications.com/ontology#cites	http://research.publications.com/instance#Paper_147458872
+http://research.publications.com/instance#Paper_195728009	http://research.publications.com/ontology#assignedTo	http://research.publications.com/instance#Reviewer_2094549396
+http://research.publications.com/instance#Author_2138510458	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://research.publications.com/ontology#Author
+http://research.publications.com/instance#Edition_1b4edfa9-d2e6-4151-818f-1918cf465513	http://research.publications.com/ontology#heldIn	http://research.publications.com/instance#City_for_5
+http://research.publications.com/instance#Conference_68352aa5-eb25-45da-8e71-db5584f32413	http://research.publications.com/ontology#hasEdition	http://research.publications.com/instance#Edition_60eed629-43cb-4ca1-9dd2-dc7e80e06e29
+http://research.publications.com/instance#Review_195728009_2094549396	http://research.publications.com/ontology#writtenByReviewer	http://research.publications.com/instance#Reviewer_2094549396
+http://research.publications.com/instance#Author_2071945856	http://research.publications.com/ontology#affiliatedTo	http://research.publications.com/instance#University_50
+http://research.publications.com/instance#Review_85764932_96020583	http://research.publications.com/ontology#reviewContent	The paper is well-written and presents a clear framework. However, some of the results seem inconclusive and need further clarification.
+http://research.publications.com/instance#Edition_28afc103-47b2-4fc8-917e-97a5cea2231c	http://research.publications.com/ontology#heldIn	http://research.publications.com/instance#City_for_6
+http://research.publications.com/instance#Paper_258205738	http://research.publications.com/ontology#hasAbstract	Abstract for paper: The Robot-Guide for Indoor Navigation
+http://research.publications.com/instance#Conference_54751dfa-f46b-4d01-a484-2aa4048ecbcc	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://research.publications.com/ontology#Conference
+http://research.publications.com/instance#Journal_0597b8f4-b3fc-4dfb-b8b5-9a521e99aebb	http://research.publications.com/ontology#hasVolume	http://research.publications.com/instance#Volume_d91a7aba-b956-4df6-ad20-12ee20006f8b
+http://research.publications.com/instance#Edition_4ee1d28f-2c97-4d90-8719-1bd7276e745e	http://research.publications.com/ontology#hasName	2
+http://research.publications.com/instance#Review_83938103_2269252520	http://research.publications.com/ontology#writtenByReviewer	http://research.publications.com/instance#Reviewer_2269252520
+http://research.publications.com/instance#Conference_e9162c89-27bf-4154-9363-cd4752983680	http://research.publications.com/ontology#hasEdition	http://research.publications.com/instance#Edition_d842fb21-b3c3-47fc-8d63-4356e3408ea8
+http://research.publications.com/instance#Paper_46830937	http://research.publications.com/ontology#cites	http://research.publications.com/instance#Paper_100436279
+http://research.publications.com/instance#Paper_75908838	http://research.publications.com/ontology#writtenBy	http://research.publications.com/instance#Author_123468344
+http://research.publications.com/instance#Author_117796062	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://research.publications.com/ontology#Author
+http://research.publications.com/instance#Author_30758235	http://research.publications.com/ontology#hasName	Masatsugu Torikawa
+http://research.publications.com/instance#Review_120690647_1413260655	http://research.publications.com/ontology#reviewOf	http://research.publications.com/instance#Paper_120690647
+http://research.publications.com/instance#Volume_492986bb-5153-4168-886d-0bfa161dabc0	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://research.publications.com/ontology#Volume
+http://research.publications.com/instance#Paper_114821127	http://research.publications.com/ontology#writtenBy	http://research.publications.com/instance#Author_2080212062
+http://research.publications.com/instance#Paper_26397690	http://research.publications.com/ontology#assignedTo	http://research.publications.com/instance#Reviewer_115725224
+http://research.publications.com/instance#Review_67774686_2074547158	http://research.publications.com/ontology#reviewOf	http://research.publications.com/instance#Paper_67774686
+http://research.publications.com/instance#Paper_83938103	http://research.publications.com/ontology#hasYear	2008
+http://research.publications.com/instance#University_28	http://research.publications.com/ontology#hasName	Institute of Technology
+http://research.publications.com/instance#Paper_153146977	http://research.publications.com/ontology#assignedTo	http://research.publications.com/instance#Reviewer_2074630461
+http://research.publications.com/instance#Paper_128938719	http://research.publications.com/ontology#cites	http://research.publications.com/instance#Paper_171679629
+http://research.publications.com/instance#Journal_5393dc5b-c9af-4591-b175-dd75c3b80b56	http://research.publications.com/ontology#hasVolume	http://research.publications.com/instance#Volume_63f82915-1526-4c83-a4de-011d60b92e7f
+http://research.publications.com/instance#Paper_226510755	http://research.publications.com/ontology#writtenBy	http://research.publications.com/instance#Author_1396011352
+http://research.publications.com/instance#Review_166949395_2286047378	http://research.publications.com/ontology#writtenByReviewer	http://research.publications.com/instance#Reviewer_2286047378
+http://research.publications.com/instance#Paper_187295235	http://research.publications.com/ontology#cites	http://research.publications.com/instance#Paper_83938103
+http://research.publications.com/instance#Paper_234561917	http://research.publications.com/ontology#cites	http://research.publications.com/instance#Paper_133758434
+http://research.publications.com/instance#Paper_139856224	http://research.publications.com/ontology#hasKeyword	http://research.publications.com/instance#Keyword_data_science
+http://research.publications.com/instance#University_11	http://research.publications.com/ontology#hasName	University of XYZ
+http://research.publications.com/instance#Edition_560bbb98-dbd5-4771-a4e0-201c5cfec150	http://research.publications.com/ontology#hasStartDate	1971-11-21
+http://research.publications.com/instance#Review_26397690_117883993	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://research.publications.com/ontology#Review
+http://research.publications.com/instance#Edition_496d1c14-3dd3-4568-b537-8e1dd7dc8686	http://research.publications.com/ontology#hasStartDate	1987-07-07
+http://research.publications.com/instance#Proceedings_Edition_73f285d1-6ce2-4944-a172-7aa892e8f5a9	http://research.publications.com/ontology#hasName	Proceedings of 6
+http://research.publications.com/instance#University_51	http://research.publications.com/ontology#hasName	Institute of Technology
+http://research.publications.com/instance#Edition_4f7891e1-7e43-4844-bdfa-d8567c263f86	http://research.publications.com/ontology#hasEndDate	1940-01-14
+http://research.publications.com/instance#Volume_09e2798a-f25e-4726-b4ba-ffd047dc3255	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://research.publications.com/ontology#Volume
+http://research.publications.com/instance#Paper_127200544	http://research.publications.com/ontology#cites	http://research.publications.com/instance#Paper_238161099
+http://research.publications.com/instance#Journal_66549ff8-1343-4c3f-b731-443baea15a80	http://research.publications.com/ontology#hasVolume	http://research.publications.com/instance#Volume_ea75ebc1-8434-42ff-a9c0-f0c5bb330bff
+http://research.publications.com/instance#Review_224305705_96020583	http://research.publications.com/ontology#reviewContent	An excellent study with great depth and clarity. The methodology is well-designed and results are compelling.
+http://research.publications.com/instance#Conference_052357a7-d8af-4014-9581-ddb0c5287f30	http://research.publications.com/ontology#hasEdition	http://research.publications.com/instance#Edition_bafbeafe-283c-45d1-a95a-223b12f1d96d
+http://research.publications.com/instance#Paper_176496998	http://research.publications.com/ontology#cites	http://research.publications.com/instance#Paper_224986272
+http://research.publications.com/instance#Review_57163336_2077848049	http://research.publications.com/ontology#grade	5
+http://research.publications.com/instance#Paper_153146977	http://research.publications.com/ontology#cites	http://research.publications.com/instance#Paper_185412623
+http://research.publications.com/instance#Journal_98ba351e-edaa-4625-97de-de4d134f4c3e	http://research.publications.com/ontology#hasVolume	http://research.publications.com/instance#Volume_3b00feb1-bfa7-46f9-b39c-07e33a30273a
+http://research.publications.com/instance#Edition_dbd0ec6f-f14f-4116-abba-b869d0bd3630	http://research.publications.com/ontology#hasStartDate	1941-07-01
+http://research.publications.com/instance#Review_10463111_2094549396	http://research.publications.com/ontology#reviewContent	The paper presents a novel approach, but the lack of comprehensive data analysis and comparison with existing techniques limits its impact.
+http://research.publications.com/instance#Paper_45881439	http://research.publications.com/ontology#cites	http://research.publications.com/instance#Paper_178887072
+http://research.publications.com/instance#Paper_27244264	http://research.publications.com/ontology#cites	http://research.publications.com/instance#Paper_85764932
+http://research.publications.com/instance#Paper_245592349	http://research.publications.com/ontology#cites	http://research.publications.com/instance#Paper_240775538
+http://research.publications.com/instance#Paper_257891264	http://research.publications.com/ontology#publishedInJournal	http://research.publications.com/instance#Volume_1720dbe7-a177-4f6f-8a70-173fcb9d41f1
+http://research.publications.com/instance#Paper_58113075	http://research.publications.com/ontology#hasKeyword	http://research.publications.com/instance#Keyword_data_science
+http://research.publications.com/instance#Paper_137761863	http://research.publications.com/ontology#cites	http://research.publications.com/instance#Paper_28630532
+http://research.publications.com/instance#Volume_ee58cc71-218b-4890-9287-c4a18fcad9f0	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://research.publications.com/ontology#Volume
+http://research.publications.com/instance#Author_144705453	http://research.publications.com/ontology#affiliatedTo	http://research.publications.com/instance#Company_1057
+http://research.publications.com/instance#Review_241084347_136117945	http://research.publications.com/ontology#grade	2
+http://research.publications.com/instance#Author_30818210	http://research.publications.com/ontology#hasName	C. F. Lopez
+http://research.publications.com/ontology#Keyword	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://www.w3.org/2000/01/rdf-schema#Class
+http://research.publications.com/instance#Journal_16860818-b36c-4902-8cb8-2184d18ccd24	http://research.publications.com/ontology#hasVolume	http://research.publications.com/instance#Volume_61da07dc-f561-4ed1-a688-0ceb71b07fd1
+http://research.publications.com/instance#Paper_83037164	http://research.publications.com/ontology#publishedInJournal	http://research.publications.com/instance#Volume_6faa47c5-9221-4e28-88a0-10ad110c5e00
+http://research.publications.com/instance#Company_1004	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://research.publications.com/ontology#Company
+http://research.publications.com/instance#Review_128776622_98115379	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://research.publications.com/ontology#Review
+http://research.publications.com/instance#Paper_147458872	http://research.publications.com/ontology#hasYear	2002
+http://research.publications.com/instance#Review_27244264_98457226	http://research.publications.com/ontology#reviewOf	http://research.publications.com/instance#Paper_27244264
+http://research.publications.com/instance#Paper_27244264	http://research.publications.com/ontology#assignedTo	http://research.publications.com/instance#Reviewer_98457226
+http://research.publications.com/instance#Review_227697209_114985438	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://research.publications.com/ontology#Review
+http://research.publications.com/instance#Volume_a23365f7-00c2-4479-adab-486d5aa46dfd	http://research.publications.com/ontology#hasYear	2020
+http://research.publications.com/instance#Paper_195728009	http://research.publications.com/ontology#correspondingAuthor	http://research.publications.com/instance#Author_2071945856
+http://research.publications.com/instance#Author_117796062	http://research.publications.com/ontology#affiliatedTo	http://research.publications.com/instance#University_45
+http://research.publications.com/instance#Paper_57163336	http://research.publications.com/ontology#publishedInJournal	http://research.publications.com/instance#Volume_058b07a8-251f-4231-80e3-5de8858f4b00
+http://research.publications.com/instance#Paper_225798605	http://research.publications.com/ontology#hasKeyword	http://research.publications.com/instance#Keyword_robotics
+http://research.publications.com/instance#Proceedings_Edition_f3b8ba45-67bd-4f48-9521-8c31bc47bfd5	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://research.publications.com/ontology#Proceedings
+http://research.publications.com/instance#Paper_238161099	http://research.publications.com/ontology#cites	http://research.publications.com/instance#Paper_232002736
+http://research.publications.com/instance#Paper_257891264	http://research.publications.com/ontology#cites	http://research.publications.com/instance#Paper_133758434
+http://research.publications.com/instance#Paper_147951709	http://research.publications.com/ontology#publishedInJournal	http://research.publications.com/instance#Volume_e9b5052d-00f1-402b-857b-7f8a3a271c67
+http://research.publications.com/instance#Review_96848430_7750354	http://research.publications.com/ontology#grade	4
+http://research.publications.com/instance#Proceedings_Edition_93bd3391-dfa1-4d64-9be5-e0849721036d	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://research.publications.com/ontology#Proceedings
+http://research.publications.com/instance#Paper_131065985	http://research.publications.com/ontology#cites	http://research.publications.com/instance#Paper_110369551
+http://research.publications.com/instance#Edition_35dd3b94-0b24-4dbf-a5e2-128ad3fa96af	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://research.publications.com/ontology#Edition
+http://research.publications.com/instance#Paper_35910203	http://research.publications.com/ontology#cites	http://research.publications.com/instance#Paper_114391730
+http://research.publications.com/instance#Edition_cab9d2ce-6c25-43f5-9cc4-0897de18cf36	http://research.publications.com/ontology#hasName	1
+http://research.publications.com/instance#Journal_93906373-b752-4182-9926-7666c98246a3	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://research.publications.com/ontology#Journal
+http://research.publications.com/instance#Review_64687638_114985438	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://research.publications.com/ontology#Review
+http://research.publications.com/instance#Volume_0dff4ac4-ad64-4ecf-ae67-56bba6c649d0	http://research.publications.com/ontology#hasName	Volume 1
+http://research.publications.com/instance#Company_1008	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://research.publications.com/ontology#Company
+http://research.publications.com/ontology#hasTitle	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://www.w3.org/1999/02/22-rdf-syntax-ns#Property
+http://research.publications.com/instance#Paper_100436279	http://research.publications.com/ontology#cites	http://research.publications.com/instance#Paper_245701070
+http://research.publications.com/instance#Review_237842496_11699225	http://research.publications.com/ontology#reviewContent	The paper is well-written and presents a clear framework. However, some of the results seem inconclusive and need further clarification.
+http://research.publications.com/instance#Paper_166949395	http://research.publications.com/ontology#cites	http://research.publications.com/instance#Paper_128938719
+http://research.publications.com/instance#Paper_110369551	http://research.publications.com/ontology#hasKeyword	http://research.publications.com/instance#Keyword_deep_learning
+http://research.publications.com/instance#Edition_f393d80f-a695-4ab6-9daf-c37ad28973f3	http://research.publications.com/ontology#hasEndDate	1940-01-15
+http://research.publications.com/instance#Edition_6341fffd-4a8b-4e8d-8ba4-59794caf4ef5	http://research.publications.com/ontology#hasStartDate	2017-05-12
+http://research.publications.com/instance#Paper_258205738	http://research.publications.com/ontology#cites	http://research.publications.com/instance#Paper_217235673
+http://research.publications.com/instance#Review_165070335_115321826	http://research.publications.com/ontology#reviewOf	http://research.publications.com/instance#Paper_165070335
+http://research.publications.com/instance#Review_15395218_96020583	http://research.publications.com/ontology#grade	2
+http://research.publications.com/instance#Paper_15395218	http://research.publications.com/ontology#assignedTo	http://research.publications.com/instance#Reviewer_2197847926
+http://research.publications.com/instance#Author_2085707060	http://research.publications.com/ontology#hasName	Iinuma Hisae
+http://research.publications.com/instance#Paper_35910203	http://research.publications.com/ontology#publishedInJournal	http://research.publications.com/instance#Volume_4ac5e665-5845-4b7c-b29c-d44e4fb7bf36
+http://research.publications.com/instance#University_37	http://research.publications.com/ontology#hasName	National College
+http://research.publications.com/instance#Edition_ae2085cc-f11c-4935-a2ca-fc9c022ae8fe	http://research.publications.com/ontology#heldIn	http://research.publications.com/instance#City_for_3
+http://research.publications.com/instance#Proceedings_Edition_42902a3f-f3fa-4675-9b61-9f978392bbc7	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://research.publications.com/ontology#Proceedings
+http://research.publications.com/instance#Paper_185068317	http://research.publications.com/ontology#publishedInJournal	http://research.publications.com/instance#Volume_cc781294-3200-4ebd-9a99-2377d638e218
+http://research.publications.com/instance#Paper_75908838	http://research.publications.com/ontology#hasKeyword	http://research.publications.com/instance#Keyword_machine_learning
+http://research.publications.com/instance#Edition_5cc6eded-9a07-4240-95b7-39c27b58814c	http://research.publications.com/ontology#hasEndDate	1940-01-08
+http://research.publications.com/instance#Paper_139856224	http://research.publications.com/ontology#cites	http://research.publications.com/instance#Paper_57163336
+http://research.publications.com/instance#Paper_133758434	http://research.publications.com/ontology#hasKeyword	http://research.publications.com/instance#Keyword_data_mining
+http://research.publications.com/instance#Conference_8e0a6567-db09-4afa-8ec2-90f58d5cc695	http://research.publications.com/ontology#hasEdition	http://research.publications.com/instance#Edition_5b3b96a6-bbe2-44e2-8a26-74b7f3b6a3b7
+http://research.publications.com/instance#Conference_3ad06da2-9dec-47f0-8d75-44149453c3a4	http://research.publications.com/ontology#hasName	Aktuelle Endokrinologie
+http://research.publications.com/instance#Paper_84365726	http://research.publications.com/ontology#publishedInJournal	http://research.publications.com/instance#Volume_b7fdfda8-a0d4-4ba8-be24-c39358dbbd6e
+http://research.publications.com/instance#Paper_35910203	http://research.publications.com/ontology#hasYear	2003
+http://research.publications.com/instance#Author_113037341	http://research.publications.com/ontology#affiliatedTo	http://research.publications.com/instance#University_42
+http://research.publications.com/instance#Company_1046	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://research.publications.com/ontology#Company
+http://research.publications.com/instance#Author_1405212200	http://research.publications.com/ontology#hasName	Sheila Bromley
+http://research.publications.com/instance#Paper_185412623	http://research.publications.com/ontology#hasKeyword	http://research.publications.com/instance#Keyword_cloud_computing
+http://research.publications.com/instance#Journal_ed81d769-ad02-4354-890f-586a9e624045	http://research.publications.com/ontology#hasVolume	http://research.publications.com/instance#Volume_11870fa9-a422-4bd6-9b47-e46a4aede37a
+http://research.publications.com/instance#Conference_fa40037d-4e24-4c44-b242-102dc6f49975	http://research.publications.com/ontology#hasEdition	http://research.publications.com/instance#Edition_d6f466da-7578-49f2-ad54-88eaef8243f7
+http://research.publications.com/instance#Paper_235484356	http://research.publications.com/ontology#correspondingAuthor	http://research.publications.com/instance#Author_1413260655
+http://research.publications.com/instance#Edition_08395bc5-196a-41e8-9b9c-8b43de2e7bf1	http://research.publications.com/ontology#hasName	3
+http://research.publications.com/ontology#Volume	http://www.w3.org/2000/01/rdf-schema#comment	A volume of a journal
+http://research.publications.com/instance#Conference_09c7f3b6-8e21-427f-8e2e-c057aab16021	http://research.publications.com/ontology#hasName	MAZOWSZE Studia Regionalne
+http://research.publications.com/instance#Review_120690647_1413260655	http://research.publications.com/ontology#grade	5
+http://research.publications.com/instance#Review_202473233_1478114560	http://research.publications.com/ontology#reviewOf	http://research.publications.com/instance#Paper_202473233
+http://research.publications.com/instance#Edition_eccb991b-8702-45bc-b37b-2930ec2f3b9a	http://research.publications.com/ontology#hasName	3
+http://research.publications.com/instance#Volume_1dc50fd8-f820-4f77-b44c-0e1baf08ed94	http://research.publications.com/ontology#hasName	Volume 2
+http://research.publications.com/instance#Paper_271178615	http://research.publications.com/ontology#assignedTo	http://research.publications.com/instance#Reviewer_2142275626
+http://research.publications.com/instance#Edition_cd05e7d3-3b6a-489e-a07e-dc2fb5caf51d	http://research.publications.com/ontology#hasStartDate	1971-10-07
+http://research.publications.com/instance#Paper_217235673	http://research.publications.com/ontology#cites	http://research.publications.com/instance#Paper_186977385
+http://research.publications.com/instance#Paper_10463111	http://research.publications.com/ontology#hasKeyword	http://research.publications.com/instance#Keyword_big_data
+http://research.publications.com/instance#Paper_10463111	http://research.publications.com/ontology#cites	http://research.publications.com/instance#Paper_201659424
+http://research.publications.com/instance#Volume_f06f7504-66ad-4be5-85d8-745848b61c04	http://research.publications.com/ontology#hasName	Volume 2
+http://research.publications.com/instance#Journal_e7d5d3ac-f3e8-4231-bcfb-712e97b78998	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://research.publications.com/ontology#Journal
+http://research.publications.com/instance#Journal_9d26d6ea-d0d7-4d27-94c6-e735f831509c	http://research.publications.com/ontology#hasVolume	http://research.publications.com/instance#Volume_cc781294-3200-4ebd-9a99-2377d638e218
+http://research.publications.com/instance#Journal_0c74181f-080f-44e8-aa1d-fc404298096b	http://research.publications.com/ontology#url	https://journal.uinsgd.ac.id/index.php/tadris-kimiya
+http://research.publications.com/instance#Journal_5e9f89e8-3699-4bdf-b62d-2716235bf32d	http://research.publications.com/ontology#url	https://www.hindawi.com/
+http://research.publications.com/instance#Paper_227697209	http://research.publications.com/ontology#cites	http://research.publications.com/instance#Paper_19135917
+http://research.publications.com/instance#Paper_75908838	http://research.publications.com/ontology#hasTitle	Déglutition. Évaluation. Rééducation
+http://research.publications.com/instance#Volume_d2c34d5d-60a4-4f45-a9ee-af02a6e558bb	http://research.publications.com/ontology#hasYear	2020
+http://research.publications.com/instance#Journal_8f463136-4465-455a-b978-1412a7beb6f9	http://research.publications.com/ontology#hasVolume	http://research.publications.com/instance#Volume_6faa47c5-9221-4e28-88a0-10ad110c5e00
+http://research.publications.com/instance#Review_235530281_88939460	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://research.publications.com/ontology#Review
+http://research.publications.com/instance#Review_201659424_2052354680	http://research.publications.com/ontology#grade	5
+http://research.publications.com/instance#Paper_137761863	http://research.publications.com/ontology#cites	http://research.publications.com/instance#Paper_195728009
+http://research.publications.com/instance#Author_119860338	http://research.publications.com/ontology#affiliatedTo	http://research.publications.com/instance#Company_1010
+http://research.publications.com/instance#Edition_ce101bcc-e349-4498-bf62-f234e82a2ef4	http://research.publications.com/ontology#hasStartDate	2005-06-27
+http://research.publications.com/instance#Paper_16492375	http://research.publications.com/ontology#hasYear	1997
+http://research.publications.com/instance#Review_133758434_2259804120	http://research.publications.com/ontology#grade	3
+http://research.publications.com/instance#Edition_5e89a1b0-bac1-4f1c-815f-15036db8693f	http://research.publications.com/ontology#hasName	5
+http://research.publications.com/instance#Edition_2cbd4dcc-e0e3-4082-996c-e80b4992b7c7	http://research.publications.com/ontology#hasName	2
+http://research.publications.com/instance#Paper_225798605	http://research.publications.com/ontology#publishedInJournal	http://research.publications.com/instance#Volume_b7313c87-9161-4bce-b609-f746c1da473d
+http://research.publications.com/instance#Paper_232002736	http://research.publications.com/ontology#hasYear	2012
+http://research.publications.com/instance#Review_83938103_2269252520	http://research.publications.com/ontology#reviewContent	The paper presents a novel approach, but the lack of comprehensive data analysis and comparison with existing techniques limits its impact.
+http://research.publications.com/instance#Paper_235530281	http://research.publications.com/ontology#cites	http://research.publications.com/instance#Paper_133790351
+http://research.publications.com/instance#Paper_187295235	http://research.publications.com/ontology#cites	http://research.publications.com/instance#Paper_19135917
+http://research.publications.com/instance#Volume_87fd6ac3-2b56-4f3b-a19b-0f0cb3e0cc0f	http://research.publications.com/ontology#hasYear	2022
+http://research.publications.com/instance#Paper_234561917	http://research.publications.com/ontology#publishedInJournal	http://research.publications.com/instance#Volume_b7313c87-9161-4bce-b609-f746c1da473d
+http://research.publications.com/instance#Paper_247019183	http://research.publications.com/ontology#writtenBy	http://research.publications.com/instance#Author_148481818
+http://research.publications.com/instance#Conference_e3ef2d76-c11f-4623-9d64-f1e66949c4c8	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://research.publications.com/ontology#Conference
+http://research.publications.com/instance#Edition_b6147c4a-ea19-4010-ba74-bc6baf4299ab	http://research.publications.com/ontology#hasName	6
+http://research.publications.com/instance#Paper_114391730	http://research.publications.com/ontology#publishedInJournal	http://research.publications.com/instance#Volume_4ac5e665-5845-4b7c-b29c-d44e4fb7bf36
+http://research.publications.com/instance#Review_224305705_96020583	http://research.publications.com/ontology#writtenByReviewer	http://research.publications.com/instance#Reviewer_96020583
+http://research.publications.com/instance#Edition_c61b6eb5-f614-40a4-a727-1e218410f66f	http://research.publications.com/ontology#hasEndDate	1940-01-17
+http://research.publications.com/instance#Volume_daa73bf3-77cd-418f-9c15-814beb0f3afb	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://research.publications.com/ontology#Volume
+http://research.publications.com/instance#Review_193494242_113725248	http://research.publications.com/ontology#writtenByReviewer	http://research.publications.com/instance#Reviewer_113725248
+http://research.publications.com/instance#Paper_152919101	http://research.publications.com/ontology#hasKeyword	http://research.publications.com/instance#Keyword_pattern_recognition
+http://research.publications.com/instance#University_72	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://research.publications.com/ontology#University
+http://research.publications.com/instance#Edition_e2777674-3913-4eb9-a0ef-0c08aea9dcc1	http://research.publications.com/ontology#hasEndDate	1940-01-23
+http://research.publications.com/instance#Paper_241084347	http://research.publications.com/ontology#doi	10.1017/9781108868280.002
+http://research.publications.com/instance#Paper_27244264	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://research.publications.com/ontology#Paper
+http://research.publications.com/instance#Volume_5f7dd968-3df5-438f-b716-9713d4791128	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://research.publications.com/ontology#Volume
+http://research.publications.com/ontology#heldIn	http://www.w3.org/2000/01/rdf-schema#domain	http://research.publications.com/ontology#Edition
+http://research.publications.com/instance#Paper_153146977	http://research.publications.com/ontology#cites	http://research.publications.com/instance#Paper_57163336
+http://research.publications.com/instance#Volume_ca7feb72-f64a-4921-bbc3-d651f765873f	http://research.publications.com/ontology#hasYear	2021
+http://research.publications.com/instance#Edition_d747144c-c9eb-41b1-a900-1a7cf1f104be	http://research.publications.com/ontology#hasEndDate	1940-01-03
+http://research.publications.com/instance#Paper_111343877	http://research.publications.com/ontology#cites	http://research.publications.com/instance#Paper_35910203
+http://research.publications.com/instance#Paper_226510755	http://research.publications.com/ontology#writtenBy	http://research.publications.com/instance#Author_123468344
+http://research.publications.com/instance#Volume_120c679e-e8e1-4914-8096-faad175d410e	http://research.publications.com/ontology#hasName	Volume 2
+http://research.publications.com/instance#Paper_176496998	http://research.publications.com/ontology#publishedInJournal	http://research.publications.com/instance#Volume_e4210e46-0b29-43b7-bede-c6d9c7e48181
+http://research.publications.com/instance#Proceedings_Edition_b8a7b7d0-adec-401d-a1d0-bcf154ee091e	http://research.publications.com/ontology#hasName	Proceedings of 7
+http://research.publications.com/instance#Paper_139856224	http://research.publications.com/ontology#cites	http://research.publications.com/instance#Paper_114821127
+http://research.publications.com/instance#Proceedings_Edition_0ca28365-2fac-4899-80df-8ec299310a38	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://research.publications.com/ontology#Proceedings
+http://research.publications.com/instance#Paper_153146977	http://research.publications.com/ontology#publishedInJournal	http://research.publications.com/instance#Volume_8d1d6f00-a80c-418e-b9dd-34021a919260
+http://research.publications.com/instance#Edition_46d923fb-ec41-49bf-8b6e-2837c7c877bc	http://research.publications.com/ontology#hasEndDate	1940-01-07
+http://research.publications.com/instance#Proceedings_Edition_dbc6e8b8-0d8b-4734-8915-004f7cb1f52a	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://research.publications.com/ontology#Proceedings
+http://research.publications.com/instance#Volume_d0ee03da-8a22-461c-80fc-71bdd60fa0e4	http://research.publications.com/ontology#hasName	Volume 1
+http://research.publications.com/instance#City_for_4	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://research.publications.com/ontology#City
+http://research.publications.com/instance#Paper_100436279	http://research.publications.com/ontology#hasKeyword	http://research.publications.com/instance#Keyword_big_data
+http://research.publications.com/instance#Author_133754873	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://research.publications.com/ontology#Author
+http://research.publications.com/instance#Volume_58632e96-5bde-4c06-be1f-e5e4ada8b6e8	http://research.publications.com/ontology#hasName	Volume 1
+http://research.publications.com/instance#Volume_1bc71345-1fd8-4195-835d-7325411b0a57	http://research.publications.com/ontology#hasYear	2021
+http://research.publications.com/instance#Volume_b037f1ab-1b80-4eaa-aeb5-abdcd0c82218	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://research.publications.com/ontology#Volume
+http://research.publications.com/instance#Paper_199123959	http://research.publications.com/ontology#correspondingAuthor	http://research.publications.com/instance#Author_119860338
+http://research.publications.com/instance#Paper_46830937	http://research.publications.com/ontology#cites	http://research.publications.com/instance#Paper_114821127
+http://research.publications.com/instance#Edition_6791e017-818d-4f15-b69a-305c6002806c	http://research.publications.com/ontology#hasName	6
+http://research.publications.com/ontology#hasStartDate	http://www.w3.org/2000/01/rdf-schema#label	has start date
+http://research.publications.com/instance#Paper_247019183	http://research.publications.com/ontology#cites	http://research.publications.com/instance#Paper_138199703
+http://research.publications.com/instance#Paper_128776622	http://research.publications.com/ontology#publishedInJournal	http://research.publications.com/instance#Volume_c2931e41-75c9-4c49-84bd-fe7d6b24b926
+http://research.publications.com/instance#Paper_171679629	http://research.publications.com/ontology#writtenBy	http://research.publications.com/instance#Author_108608370
+http://research.publications.com/instance#Paper_252693062	http://research.publications.com/ontology#correspondingAuthor	http://research.publications.com/instance#Author_108608370
+http://research.publications.com/instance#Proceedings_Edition_05e38f5b-7c61-4453-9ba8-aaf70767c785	http://research.publications.com/ontology#hasName	Proceedings of 9
+http://research.publications.com/instance#University_4	http://research.publications.com/ontology#hasName	National College
+http://research.publications.com/instance#Paper_127200544	http://research.publications.com/ontology#hasTitle	Obligatorisk redovisning av sjukfrånvaro : Hur förbereder sig privata företag inför lagen? - Kan lagen vara en början till att bättre synliggöra personalekonomi?
+http://research.publications.com/instance#Paper_110369551	http://research.publications.com/ontology#cites	http://research.publications.com/instance#Paper_213039282
+http://research.publications.com/instance#Review_186868338_79619869	http://research.publications.com/ontology#reviewContent	A strong paper with great potential. The results are convincing, but more details on implementation would be helpful.
+http://research.publications.com/instance#Journal_3f5ce3e7-db27-4a92-b76f-b3ab0718584b	http://research.publications.com/ontology#hasVolume	http://research.publications.com/instance#Volume_ffa70f13-ac3a-4707-8033-d109da7904e5
+http://research.publications.com/instance#Author_2290777887	http://research.publications.com/ontology#affiliatedTo	http://research.publications.com/instance#Company_1008
+http://research.publications.com/instance#Journal_ea002f27-327c-4242-9fd6-e14095af68b8	http://research.publications.com/ontology#hasName	Comvice : Journal of community service
+http://research.publications.com/instance#Company_1066	http://research.publications.com/ontology#hasName	Innovative Solutions Inc.
+http://research.publications.com/instance#Paper_10463111	http://research.publications.com/ontology#hasTitle	DISCRETE GAUGE THEORIES 1
+http://research.publications.com/instance#Edition_7680ef32-be1e-4768-a52b-0c71fb9d7559	http://research.publications.com/ontology#hasStartDate	2024-09-18
+http://research.publications.com/instance#Edition_135d13ec-0d20-49b7-8b8f-59eda198e0c4	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://research.publications.com/ontology#Edition
+http://research.publications.com/instance#Paper_235530281	http://research.publications.com/ontology#hasKeyword	http://research.publications.com/instance#Keyword_deep_learning
+http://research.publications.com/instance#Author_148481818	http://research.publications.com/ontology#hasName	Богуслав Желински
+http://research.publications.com/instance#Volume_2b94ff1e-e59b-4497-87f1-76a482e45556	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://research.publications.com/ontology#Volume
+http://research.publications.com/instance#Author_2327561551	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://research.publications.com/ontology#Author
+http://research.publications.com/instance#Paper_26397690	http://research.publications.com/ontology#writtenBy	http://research.publications.com/instance#Author_113037341
+http://research.publications.com/instance#Paper_28199803	http://research.publications.com/ontology#hasYear	2008
+http://research.publications.com/instance#Paper_249370499	http://research.publications.com/ontology#cites	http://research.publications.com/instance#Paper_19773478
+http://research.publications.com/instance#Edition_17058c73-16b5-4485-b096-47b16bf635bd	http://research.publications.com/ontology#hasName	3
+http://research.publications.com/instance#Edition_7dc2441b-bc82-494b-a113-831f7df7a4d2	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://research.publications.com/ontology#Edition
+http://research.publications.com/instance#Paper_185412623	http://research.publications.com/ontology#cites	http://research.publications.com/instance#Paper_225798605
+http://research.publications.com/instance#Paper_224305705	http://research.publications.com/ontology#assignedTo	http://research.publications.com/instance#Reviewer_136117945
+http://research.publications.com/instance#Paper_237842496	http://research.publications.com/ontology#hasTitle	Le marché des matières premières dans l’Antiquité et au Moyen Âge
+http://research.publications.com/instance#Edition_ce101bcc-e349-4498-bf62-f234e82a2ef4	http://research.publications.com/ontology#hasName	4
+http://research.publications.com/instance#Paper_176496998	http://research.publications.com/ontology#correspondingAuthor	http://research.publications.com/instance#Author_2127672639
+http://research.publications.com/instance#Proceedings_Edition_67ca6555-b54b-45a4-88ef-6bc5695d4a44	http://research.publications.com/ontology#hasName	Proceedings of 6
+http://research.publications.com/instance#Journal_92156813-c8b7-4d81-a500-64dc6bc03216	http://research.publications.com/ontology#hasVolume	http://research.publications.com/instance#Volume_1c9f7f9d-8e2d-40b5-98e4-45d1038aab57
+http://research.publications.com/instance#Paper_176561991	http://research.publications.com/ontology#publishedInJournal	http://research.publications.com/instance#Volume_124a3666-662c-4fda-9652-67e0dd0cf3d5
+http://research.publications.com/instance#Paper_142083861	http://research.publications.com/ontology#cites	http://research.publications.com/instance#Paper_253618518
+http://research.publications.com/instance#Paper_28630532	http://research.publications.com/ontology#writtenBy	http://research.publications.com/instance#Author_16768256
+http://research.publications.com/instance#Journal_7e79de3e-93d0-413c-9f0d-e0288f94b4d5	http://research.publications.com/ontology#hasVolume	http://research.publications.com/instance#Volume_a53b8dea-9e6f-41a5-875e-cbdf140f86a5
+http://research.publications.com/instance#Journal_f3141835-d9fc-4749-a789-b420dcdf7f6c	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://research.publications.com/ontology#Journal
+http://research.publications.com/instance#Volume_2002a6b7-9160-469c-a850-24a8fadf3342	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://research.publications.com/ontology#Volume
+http://research.publications.com/instance#Paper_268173266	http://research.publications.com/ontology#writtenBy	http://research.publications.com/instance#Author_133754873
+http://research.publications.com/instance#Journal_bfcca754-6c59-4b8a-97b1-13eac9a99988	http://research.publications.com/ontology#hasVolume	http://research.publications.com/instance#Volume_c5849d91-886e-4950-8715-94a5f718dc9e
+http://research.publications.com/instance#Conference_5c71b526-1598-4434-a92b-e43d3f77ceb4	http://research.publications.com/ontology#hasEdition	http://research.publications.com/instance#Edition_ae2085cc-f11c-4935-a2ca-fc9c022ae8fe
+http://research.publications.com/instance#Paper_38839406	http://research.publications.com/ontology#hasKeyword	http://research.publications.com/instance#Keyword_artificial_intelligence
+http://research.publications.com/instance#Review_131065985_114237122	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://research.publications.com/ontology#Review
+http://research.publications.com/instance#Review_96848430_2212810753	http://research.publications.com/ontology#reviewOf	http://research.publications.com/instance#Paper_96848430
+http://research.publications.com/instance#Author_2197847926	http://research.publications.com/ontology#hasName	Bruno Bonizzi 
+http://research.publications.com/instance#Volume_ee58cc71-218b-4890-9287-c4a18fcad9f0	http://research.publications.com/ontology#hasYear	2021
+http://research.publications.com/instance#University_36	http://research.publications.com/ontology#hasName	National College
+http://research.publications.com/instance#Volume_b12158ce-2526-46f2-805a-cf88af14c68e	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://research.publications.com/ontology#Volume
+http://research.publications.com/instance#Paper_234561917	http://research.publications.com/ontology#doi	10.1088/1757-899X/932/1/012048
+http://research.publications.com/instance#Edition_2aca6da3-0dcb-4a50-a22f-dbe5f90e6ae5	http://research.publications.com/ontology#hasName	6
+http://research.publications.com/instance#Volume_bb2b5cb0-c7cc-4667-8096-244806bedc7a	http://research.publications.com/ontology#hasYear	2022
+http://research.publications.com/instance#Volume_39f28002-5dd3-42f0-b6bf-82eeaaee36ef	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://research.publications.com/ontology#Volume
+http://research.publications.com/instance#Volume_e375c4a3-4603-4eab-8b2b-871a45a03172	http://research.publications.com/ontology#hasName	Volume 1
+http://research.publications.com/instance#Volume_bbd1733f-4060-4495-906e-8c0ea2b48758	http://research.publications.com/ontology#hasName	Volume 1
+http://research.publications.com/instance#Company_1007	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://research.publications.com/ontology#Company
+http://research.publications.com/instance#Paper_243437010	http://research.publications.com/ontology#writtenBy	http://research.publications.com/instance#Author_102736828
+http://research.publications.com/instance#Paper_64687638	http://research.publications.com/ontology#cites	http://research.publications.com/instance#Paper_225798605
+http://research.publications.com/instance#Paper_226510755	http://research.publications.com/ontology#publishedInJournal	http://research.publications.com/instance#Volume_621cc949-82f0-4cfe-a451-e56d66c393b5
+http://research.publications.com/instance#Conference_7e0a7d17-f248-4159-b79d-180bbd0192ea	http://research.publications.com/ontology#hasEdition	http://research.publications.com/instance#Edition_b637419f-51ef-4f11-b29b-20ce6bbfc0c5
+http://research.publications.com/instance#Edition_d2924708-f008-4c4e-a6ce-6cf6eecfe802	http://research.publications.com/ontology#hasName	1
+http://research.publications.com/instance#Author_79619869	http://research.publications.com/ontology#hindex	1
+http://research.publications.com/instance#Proceedings_Edition_2aca6da3-0dcb-4a50-a22f-dbe5f90e6ae5	http://research.publications.com/ontology#hasName	Proceedings of 6
+http://research.publications.com/instance#Edition_e2777674-3913-4eb9-a0ef-0c08aea9dcc1	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://research.publications.com/ontology#Edition
+http://research.publications.com/instance#Paper_257891264	http://research.publications.com/ontology#hasYear	2023
+http://research.publications.com/instance#Paper_29246173	http://research.publications.com/ontology#correspondingAuthor	http://research.publications.com/instance#Author_120058751
+http://research.publications.com/instance#Journal_d14ad380-667a-41eb-bc06-51a56e9a8240	http://research.publications.com/ontology#url	http://www.oecd.org/document/59/0,2340,en_2649_33733_2744443_1_1_1_1,00.html
+http://research.publications.com/instance#Paper_16492375	http://research.publications.com/ontology#cites	http://research.publications.com/instance#Paper_237842496
+http://research.publications.com/instance#Volume_38f0d219-5677-49ed-958a-a8246478a338	http://research.publications.com/ontology#hasYear	2022
+http://research.publications.com/instance#Volume_0e4e571c-3575-4a9c-b7b6-d01b3814c8a4	http://research.publications.com/ontology#hasYear	2023
+http://research.publications.com/instance#Paper_142083861	http://research.publications.com/ontology#writtenBy	http://research.publications.com/instance#Author_2212810753
+http://research.publications.com/instance#Edition_daef680e-cccc-46c8-8e1c-fa24319c63a9	http://research.publications.com/ontology#heldIn	http://research.publications.com/instance#City_for_3
+http://research.publications.com/instance#Volume_4bf16d0d-756c-44a0-81cd-821dbb1dd764	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://research.publications.com/ontology#Volume
+http://research.publications.com/instance#Paper_148662897	http://research.publications.com/ontology#hasYear	2016
+http://research.publications.com/instance#Journal_da7dbdc2-5f4b-497e-ab75-d31423708a85	http://research.publications.com/ontology#hasVolume	http://research.publications.com/instance#Volume_84ef2516-b71c-4ffe-a1d2-e0e8c79bb90a
+http://research.publications.com/instance#Volume_0380b3f5-3ece-4d2b-938e-5de4321909fa	http://research.publications.com/ontology#hasName	Volume 1
+http://research.publications.com/instance#Paper_171679629	http://research.publications.com/ontology#cites	http://research.publications.com/instance#Paper_45881439
+http://research.publications.com/instance#Paper_133758434	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://research.publications.com/ontology#Paper
+http://research.publications.com/instance#Paper_75908838	http://research.publications.com/ontology#assignedTo	http://research.publications.com/instance#Reviewer_9091633
+http://research.publications.com/instance#Review_176496998_2122080888	http://research.publications.com/ontology#reviewOf	http://research.publications.com/instance#Paper_176496998
+http://research.publications.com/instance#Paper_147458872	http://research.publications.com/ontology#cites	http://research.publications.com/instance#Paper_153146977
+http://research.publications.com/instance#Proceedings_Edition_6a5b7404-5fd2-43e6-beb6-67ab955b07dc	http://research.publications.com/ontology#hasName	Proceedings of 9
+http://research.publications.com/instance#Conference_367e9fe3-7f40-437f-b6d5-ceddc21b33c5	http://research.publications.com/ontology#hasEdition	http://research.publications.com/instance#Edition_3bc98311-37b5-4663-9614-ce8260e2f75e
+http://research.publications.com/instance#Paper_153146977	http://research.publications.com/ontology#cites	http://research.publications.com/instance#Paper_271178615
+http://research.publications.com/instance#Review_253618518_2223598156	http://research.publications.com/ontology#grade	3
+http://research.publications.com/instance#Edition_24fd1196-54d9-4ca4-ba1d-5f19c8d82b93	http://research.publications.com/ontology#hasEndDate	1940-01-19
+http://research.publications.com/instance#Review_41574606_88939460	http://research.publications.com/ontology#writtenByReviewer	http://research.publications.com/instance#Reviewer_88939460
+http://research.publications.com/instance#Paper_202473233	http://research.publications.com/ontology#cites	http://research.publications.com/instance#Paper_57163336
+http://research.publications.com/instance#Volume_68880d23-c821-4d07-b065-b4722c249dfb	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://research.publications.com/ontology#Volume
+http://research.publications.com/instance#Edition_d69d9ec6-9c20-42e7-a839-b32830c47ad5	http://research.publications.com/ontology#hasName	1
+http://research.publications.com/instance#Edition_b8a84599-694b-4b95-9803-424df602216f	http://research.publications.com/ontology#hasStartDate	1973-01-29
+http://research.publications.com/instance#Review_225798605_119260307	http://research.publications.com/ontology#writtenByReviewer	http://research.publications.com/instance#Reviewer_119260307
+http://research.publications.com/instance#Review_26397690_117883993	http://research.publications.com/ontology#grade	1
+http://research.publications.com/instance#Paper_147951709	http://research.publications.com/ontology#cites	http://research.publications.com/instance#Paper_193494242
+http://research.publications.com/instance#Proceedings_Edition_3e361b7b-1fec-477c-be60-32618352ba40	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://research.publications.com/ontology#Proceedings
+http://research.publications.com/instance#Conference_513b7832-98bf-4f66-b4b6-181edc9647ee	http://research.publications.com/ontology#hasEdition	http://research.publications.com/instance#Edition_f6deb6f8-a7c5-43c8-ac91-d03098e2e77a
+http://research.publications.com/instance#Paper_139856224	http://research.publications.com/ontology#hasKeyword	http://research.publications.com/instance#Keyword_cloud_computing
+http://research.publications.com/instance#Keyword_deep_learning	http://research.publications.com/ontology#hasName	deep learning
+http://research.publications.com/instance#Conference_513b7832-98bf-4f66-b4b6-181edc9647ee	http://research.publications.com/ontology#hasEdition	http://research.publications.com/instance#Edition_6cc2bae2-9b28-4644-b2d0-b8bf2c7f9449
+http://research.publications.com/instance#Paper_186868338	http://research.publications.com/ontology#writtenBy	http://research.publications.com/instance#Author_2127672639
+http://research.publications.com/instance#Volume_b7fdfda8-a0d4-4ba8-be24-c39358dbbd6e	http://research.publications.com/ontology#hasName	Volume 1
+http://research.publications.com/instance#University_48	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://research.publications.com/ontology#University
+http://research.publications.com/instance#Author_84499142	http://research.publications.com/ontology#hindex	1
+http://research.publications.com/instance#Volume_619d7090-858e-471c-832c-ede44356f4cc	http://research.publications.com/ontology#hasYear	2020
+http://research.publications.com/instance#Volume_c392b3d6-99bb-4ff5-b358-5df3d62ecfbb	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://research.publications.com/ontology#Volume
+http://research.publications.com/instance#Paper_110369551	http://research.publications.com/ontology#writtenBy	http://research.publications.com/instance#Author_148481818
+http://research.publications.com/instance#Paper_64687638	http://research.publications.com/ontology#cites	http://research.publications.com/instance#Paper_41574606
+http://research.publications.com/instance#Edition_9e54ca1a-b247-4f9d-8526-41cc22cc0fb7	http://research.publications.com/ontology#hasStartDate	1988-03-18
+http://research.publications.com/instance#Paper_176496998	http://research.publications.com/ontology#cites	http://research.publications.com/instance#Paper_186868338
+http://research.publications.com/instance#Paper_153146977	http://research.publications.com/ontology#publishedInJournal	http://research.publications.com/instance#Volume_9b9221d0-06a8-4e24-a947-1401c6661cce
+http://research.publications.com/instance#Edition_7680ef32-be1e-4768-a52b-0c71fb9d7559	http://research.publications.com/ontology#hasEndDate	1940-01-07
+http://research.publications.com/instance#Paper_191662050	http://research.publications.com/ontology#cites	http://research.publications.com/instance#Paper_26397690
+http://research.publications.com/instance#Paper_166949395	http://research.publications.com/ontology#publishedInJournal	http://research.publications.com/instance#Volume_c918b749-2a48-47d4-859c-ee4e240f6ac9
+http://research.publications.com/instance#Edition_5dc3274d-ecb7-4d11-9a53-a738b0109607	http://research.publications.com/ontology#hasEndDate	1940-01-06
+http://research.publications.com/instance#Edition_e6d3b242-b4f0-4fb9-b5ae-872740b4ae8d	http://research.publications.com/ontology#heldIn	http://research.publications.com/instance#City_for_6
+http://research.publications.com/instance#Review_165070335_98115379	http://research.publications.com/ontology#grade	1
+http://research.publications.com/instance#Journal_f3141835-d9fc-4749-a789-b420dcdf7f6c	http://research.publications.com/ontology#hasVolume	http://research.publications.com/instance#Volume_cd6ccdeb-0bba-4b3e-9ef1-d5f6c390fcdc
+http://research.publications.com/instance#Author_94527622	http://research.publications.com/ontology#hasName	D. B. Wiggins
+http://research.publications.com/instance#Edition_73c53d29-1029-4516-afe5-f2880c85c7b5	http://research.publications.com/ontology#heldIn	http://research.publications.com/instance#City_for_6
+http://research.publications.com/instance#Paper_34333286	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://research.publications.com/ontology#Paper
+http://research.publications.com/instance#Company_1024	http://research.publications.com/ontology#hasName	Innovative Solutions Inc.
+http://research.publications.com/instance#Paper_87417287	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://research.publications.com/ontology#Paper
+http://research.publications.com/instance#Paper_165070335	http://research.publications.com/ontology#doi	nan
+http://research.publications.com/instance#Paper_247834289	http://research.publications.com/ontology#cites	http://research.publications.com/instance#Paper_178887072
+http://research.publications.com/instance#Volume_1c9f7f9d-8e2d-40b5-98e4-45d1038aab57	http://research.publications.com/ontology#hasName	Volume 1
+http://research.publications.com/instance#Edition_384245d1-6e87-4efd-b0e6-410d323142f1	http://research.publications.com/ontology#hasStartDate	1991-12-03
+http://research.publications.com/instance#Company_1030	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://research.publications.com/ontology#Company
+http://research.publications.com/instance#Paper_226510755	http://research.publications.com/ontology#hasTitle	A Study on the Shang Dynasty’s Educational Culture, based on Oracle Bone Scripts
+http://research.publications.com/instance#Conference_dac431f2-a90d-4d4b-9b0e-bf529e415b0d	http://research.publications.com/ontology#hasEdition	http://research.publications.com/instance#Edition_bbd925a6-b920-48b4-9884-4114a0484c71
+http://research.publications.com/instance#Paper_185412623	http://research.publications.com/ontology#cites	http://research.publications.com/instance#Paper_84365726
+http://research.publications.com/instance#Edition_789c1116-3048-4d67-941d-a78fb67db3c1	http://research.publications.com/ontology#hasName	6
+http://research.publications.com/instance#Paper_240775538	http://research.publications.com/ontology#publishedInJournal	http://research.publications.com/instance#Volume_3c39bfea-5019-4b70-8b3c-a6fd5061947f
+http://research.publications.com/instance#Paper_166949395	http://research.publications.com/ontology#publishedInJournal	http://research.publications.com/instance#Volume_e9b5052d-00f1-402b-857b-7f8a3a271c67
+http://research.publications.com/instance#Paper_35910203	http://research.publications.com/ontology#assignedTo	http://research.publications.com/instance#Reviewer_92071594
+http://research.publications.com/instance#Journal_cf7a231d-56d1-46eb-bbda-06f602fafa30	http://research.publications.com/ontology#hasVolume	http://research.publications.com/instance#Volume_bbc3cbe4-68e6-4ad1-af34-8a466750b3ac
+http://research.publications.com/instance#Paper_249370499	http://research.publications.com/ontology#doi	nan
+http://research.publications.com/instance#Volume_b45fc68a-8e35-419b-8ce3-14f3bb50cb57	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://research.publications.com/ontology#Volume
+http://research.publications.com/instance#Company_1003	http://research.publications.com/ontology#hasName	Company ABC
+http://research.publications.com/instance#Volume_46c8d819-325c-4dfc-8958-7f22daf9a09a	http://research.publications.com/ontology#hasYear	2023
+http://research.publications.com/instance#Volume_f825a0fa-039a-43bd-929b-2f039be2990c	http://research.publications.com/ontology#hasName	Volume 2
+http://research.publications.com/instance#Paper_114391730	http://research.publications.com/ontology#publishedInJournal	http://research.publications.com/instance#Volume_9cbd805f-51f6-4526-b93c-f8254dc492d8
+http://research.publications.com/instance#Paper_171679629	http://research.publications.com/ontology#cites	http://research.publications.com/instance#Paper_65325816
+http://research.publications.com/instance#Conference_92d173c4-1b82-4dc1-b5c6-04812c9531c0	http://research.publications.com/ontology#hasEdition	http://research.publications.com/instance#Edition_7861fd55-a0a8-4ce2-bf0f-3c601a18f494
+http://research.publications.com/instance#Edition_56ed2a40-2e11-41c2-950d-64556c764e2c	http://research.publications.com/ontology#hasName	2
+http://research.publications.com/instance#Volume_c0d68b04-11c7-43d3-92b4-2d3af5e485c2	http://research.publications.com/ontology#hasName	Volume 1
+http://research.publications.com/instance#Volume_743e0def-1dff-4ccd-9371-1260c3884c35	http://research.publications.com/ontology#hasName	Volume 2
+http://research.publications.com/instance#Paper_96848430	http://research.publications.com/ontology#correspondingAuthor	http://research.publications.com/instance#Author_2085707060
+http://research.publications.com/instance#Paper_26397690	http://research.publications.com/ontology#hasKeyword	http://research.publications.com/instance#Keyword_artificial_intelligence
+http://research.publications.com/instance#University_19	http://research.publications.com/ontology#hasName	University of XYZ
+http://research.publications.com/instance#Review_137761863_92184355	http://research.publications.com/ontology#reviewContent	The paper is well-written and presents a clear framework. However, some of the results seem inconclusive and need further clarification.
+http://research.publications.com/instance#Paper_38839406	http://research.publications.com/ontology#cites	http://research.publications.com/instance#Paper_110369551
+http://research.publications.com/instance#Review_19773478_70184946	http://research.publications.com/ontology#reviewOf	http://research.publications.com/instance#Paper_19773478
+http://research.publications.com/ontology#Paper	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://www.w3.org/2000/01/rdf-schema#Class
+http://research.publications.com/instance#Paper_148662897	http://research.publications.com/ontology#cites	http://research.publications.com/instance#Paper_199123959
+http://research.publications.com/instance#Edition_fd62c193-8be3-4248-b846-222de3082325	http://research.publications.com/ontology#hasEndDate	1940-01-02
+http://research.publications.com/instance#Edition_1e892877-1eea-4dff-bdf0-9f8f80a7b80a	http://research.publications.com/ontology#hasStartDate	2005-08-22
+http://research.publications.com/instance#Company_1063	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://research.publications.com/ontology#Company
+http://research.publications.com/instance#Paper_224305705	http://research.publications.com/ontology#cites	http://research.publications.com/instance#Paper_225798605
+http://research.publications.com/instance#Paper_15395218	http://research.publications.com/ontology#cites	http://research.publications.com/instance#Paper_29246173
+http://research.publications.com/instance#Edition_e6b022d5-07bb-4206-a915-f9a7701008fc	http://research.publications.com/ontology#heldIn	http://research.publications.com/instance#City_for_3
+http://research.publications.com/instance#Volume_124a3666-662c-4fda-9652-67e0dd0cf3d5	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://research.publications.com/ontology#Volume
+http://research.publications.com/instance#Edition_f0013676-3721-4e05-8043-163304ef3de8	http://research.publications.com/ontology#hasEndDate	1940-01-05
+http://research.publications.com/instance#Paper_29246173	http://research.publications.com/ontology#cites	http://research.publications.com/instance#Paper_243437010
+http://research.publications.com/instance#Conference_d4aec99e-d36b-4c3d-8f99-c2374260131b	http://research.publications.com/ontology#url	http://www.worldsecurityinstitute.org/showpublications.cfm?id=152
+http://research.publications.com/instance#Paper_46830937	http://research.publications.com/ontology#publishedInJournal	http://research.publications.com/instance#Volume_e4210e46-0b29-43b7-bede-c6d9c7e48181
+http://research.publications.com/instance#Company_1049	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://research.publications.com/ontology#Company
+http://research.publications.com/instance#Paper_268173266	http://research.publications.com/ontology#cites	http://research.publications.com/instance#Paper_247834289
+http://research.publications.com/instance#Volume_2002a6b7-9160-469c-a850-24a8fadf3342	http://research.publications.com/ontology#hasName	Volume 1
+http://research.publications.com/instance#Author_2052354680	http://research.publications.com/ontology#affiliatedTo	http://research.publications.com/instance#Company_1062
+http://research.publications.com/instance#Edition_0438ad6c-5457-42f3-91b6-8a9c42251798	http://research.publications.com/ontology#hasEndDate	1940-01-30
+http://research.publications.com/ontology#publishedInJournal	http://www.w3.org/2000/01/rdf-schema#subPropertyOf	http://research.publications.com/ontology#publishedIn
+http://research.publications.com/instance#Volume_743e0def-1dff-4ccd-9371-1260c3884c35	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://research.publications.com/ontology#Volume
+http://research.publications.com/instance#Edition_5a487f53-ad7d-4e5c-a326-d96c51873e9b	http://research.publications.com/ontology#heldIn	http://research.publications.com/instance#City_for_8
+http://research.publications.com/instance#Conference_8a6faaef-eb92-4dcb-8f9b-065388aee977	http://research.publications.com/ontology#hasEdition	http://research.publications.com/instance#Edition_4025461b-38db-4ac8-98c3-182f73216fcd
+http://research.publications.com/instance#Review_27244264_98457226	http://research.publications.com/ontology#writtenByReviewer	http://research.publications.com/instance#Reviewer_98457226
+http://research.publications.com/instance#Paper_127200544	http://research.publications.com/ontology#writtenBy	http://research.publications.com/instance#Author_96020583
+http://research.publications.com/instance#City_for_8	http://research.publications.com/ontology#hasName	City_for_8
+http://research.publications.com/instance#Journal_92156813-c8b7-4d81-a500-64dc6bc03216	http://research.publications.com/ontology#url	nan
+http://research.publications.com/ontology#Review	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://www.w3.org/2000/01/rdf-schema#Class
+http://research.publications.com/instance#Paper_171679629	http://research.publications.com/ontology#cites	http://research.publications.com/instance#Paper_41574606
+http://research.publications.com/instance#Proceedings_Edition_5a487f53-ad7d-4e5c-a326-d96c51873e9b	http://research.publications.com/ontology#hasName	Proceedings of 8
+http://research.publications.com/instance#Review_110298854_114237122	http://research.publications.com/ontology#reviewContent	The paper is well-written and presents a clear framework. However, some of the results seem inconclusive and need further clarification.
+http://research.publications.com/instance#Review_19773478_2094549396	http://research.publications.com/ontology#reviewOf	http://research.publications.com/instance#Paper_19773478
+http://research.publications.com/instance#Company_1065	http://research.publications.com/ontology#hasName	Company ABC
+http://research.publications.com/instance#Edition_3c9a45eb-4490-4767-927e-aad278639183	http://research.publications.com/ontology#heldIn	http://research.publications.com/instance#City_for_6
+http://research.publications.com/instance#Paper_185068317	http://research.publications.com/ontology#hasKeyword	http://research.publications.com/instance#Keyword_natural_language_processing
+http://research.publications.com/instance#Paper_85764932	http://research.publications.com/ontology#publishedInJournal	http://research.publications.com/instance#Volume_9f9688c5-780a-4664-810a-c1492707d511
+http://research.publications.com/instance#Proceedings_Edition_e8d1cf61-07af-4d43-be98-bc2ce482deb9	http://research.publications.com/ontology#hasName	Proceedings of 1
+http://research.publications.com/instance#Paper_224986272	http://research.publications.com/ontology#cites	http://research.publications.com/instance#Paper_64687638
+http://research.publications.com/instance#Volume_eb4b6f3f-7d35-4115-b2c4-a6ac20677095	http://research.publications.com/ontology#hasName	Volume 2
+http://research.publications.com/instance#Proceedings_Edition_57d81840-c7a4-4033-9c49-308c4f24145d	http://research.publications.com/ontology#hasName	Proceedings of 3
+http://research.publications.com/instance#Paper_186977385	http://research.publications.com/ontology#cites	http://research.publications.com/instance#Paper_238161099
+http://research.publications.com/instance#University_42	http://research.publications.com/ontology#hasName	University of XYZ
+http://research.publications.com/instance#Company_1026	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://research.publications.com/ontology#Company
+http://research.publications.com/instance#Edition_380c92e2-84ea-4717-8528-66f9b848b9bc	http://research.publications.com/ontology#hasStartDate	2004-11-15
+http://research.publications.com/instance#Paper_16492375	http://research.publications.com/ontology#cites	http://research.publications.com/instance#Paper_166949395
+http://research.publications.com/instance#Paper_152919101	http://research.publications.com/ontology#cites	http://research.publications.com/instance#Paper_199123959
+http://research.publications.com/instance#Paper_147951709	http://research.publications.com/ontology#hasAbstract	Abstract for paper: Exploration of Reading Teaching Strategies under the Senior English Curriculum Reforms
+http://research.publications.com/instance#Review_137761863_92184355	http://research.publications.com/ontology#reviewOf	http://research.publications.com/instance#Paper_137761863
+http://research.publications.com/instance#Paper_64687638	http://research.publications.com/ontology#correspondingAuthor	http://research.publications.com/instance#Author_1413260655
+http://research.publications.com/instance#Paper_148662897	http://research.publications.com/ontology#hasKeyword	http://research.publications.com/instance#Keyword_machine_learning
+http://research.publications.com/instance#Journal_a1492e44-9ab1-4e68-a6c7-3733a33a6044	http://research.publications.com/ontology#hasVolume	http://research.publications.com/instance#Volume_0a7e5d88-a4ce-48b8-abb2-607e8d86c6c5
+http://research.publications.com/instance#Paper_176561991	http://research.publications.com/ontology#hasKeyword	http://research.publications.com/instance#Keyword_robotics
+http://research.publications.com/instance#Author_2259804120	http://research.publications.com/ontology#hindex	1
+http://research.publications.com/instance#Paper_147458872	http://research.publications.com/ontology#cites	http://research.publications.com/instance#Paper_64687638
+http://research.publications.com/instance#Paper_185412623	http://research.publications.com/ontology#cites	http://research.publications.com/instance#Paper_38839406
+http://research.publications.com/instance#Volume_6ca00ca5-eb00-44eb-8df6-bcee3da7afcf	http://research.publications.com/ontology#hasYear	2021
+http://research.publications.com/instance#Conference_aba0bc6c-236a-4dc0-8a43-c204c07832e9	http://research.publications.com/ontology#hasEdition	http://research.publications.com/instance#Edition_225c3d62-54cc-404d-bdec-8500b663becf
+http://research.publications.com/instance#Edition_169c58cc-126a-4f70-bff5-5f43af526892	http://research.publications.com/ontology#heldIn	http://research.publications.com/instance#City_for_7
+http://research.publications.com/instance#Review_185068317_1484740366	http://research.publications.com/ontology#reviewContent	An excellent study with great depth and clarity. The methodology is well-designed and results are compelling.
+http://research.publications.com/instance#Paper_85764932	http://research.publications.com/ontology#writtenBy	http://research.publications.com/instance#Author_1395625497
+http://research.publications.com/ontology#reviewContent	http://www.w3.org/2000/01/rdf-schema#domain	http://research.publications.com/ontology#Review
+http://research.publications.com/instance#Company_1028	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://research.publications.com/ontology#Company
+http://research.publications.com/instance#Edition_4e43048b-eeb2-4800-930a-6bec71b3f988	http://research.publications.com/ontology#hasName	3
+http://research.publications.com/instance#Paper_38839406	http://research.publications.com/ontology#cites	http://research.publications.com/instance#Paper_139856224
+http://research.publications.com/instance#Edition_7dc2441b-bc82-494b-a113-831f7df7a4d2	http://research.publications.com/ontology#hasName	4
+http://research.publications.com/instance#Volume_63af574f-6ea7-4900-8397-488209f764ca	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://research.publications.com/ontology#Volume
+http://research.publications.com/instance#Paper_38839406	http://research.publications.com/ontology#cites	http://research.publications.com/instance#Paper_27244264
+http://research.publications.com/instance#Paper_142083861	http://research.publications.com/ontology#cites	http://research.publications.com/instance#Paper_120690647
+http://research.publications.com/instance#Volume_fa8dc1d1-f7dc-4cdb-8515-8b88f2066c78	http://research.publications.com/ontology#hasYear	2022
+http://research.publications.com/instance#Proceedings_Edition_dfb7b75c-31bc-42d8-a8d8-d0de26425590	http://research.publications.com/ontology#hasName	Proceedings of 1
+http://research.publications.com/instance#Paper_28199803	http://research.publications.com/ontology#cites	http://research.publications.com/instance#Paper_110298854
+http://research.publications.com/instance#Paper_19135917	http://research.publications.com/ontology#hasTitle	The first 3 months after BCNU wafers implantation in high-grade glioma patients: clinical and radiological considerations on a clinical series
+http://research.publications.com/instance#Review_15395218_96020583	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://research.publications.com/ontology#Review
+http://research.publications.com/instance#Paper_83037164	http://research.publications.com/ontology#cites	http://research.publications.com/instance#Paper_83938103
+http://research.publications.com/instance#Company_1033	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://research.publications.com/ontology#Company
+http://research.publications.com/instance#Edition_0756d2e6-c456-4e63-9211-160eb02072f0	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://research.publications.com/ontology#Edition
+http://research.publications.com/instance#Paper_42152825	http://research.publications.com/ontology#cites	http://research.publications.com/instance#Paper_199123959
+http://research.publications.com/ontology#Paper	http://www.w3.org/2000/01/rdf-schema#comment	A research paper written by authors
+http://research.publications.com/instance#Conference_8a6faaef-eb92-4dcb-8f9b-065388aee977	http://research.publications.com/ontology#hasEdition	http://research.publications.com/instance#Edition_bf713b35-d9ff-48a6-aec9-b1c9f262f4b2
+http://research.publications.com/instance#Edition_da22f8b4-1755-4240-995a-05a1f99591d3	http://research.publications.com/ontology#hasEndDate	1940-01-16
+http://research.publications.com/instance#Paper_226510755	http://research.publications.com/ontology#cites	http://research.publications.com/instance#Paper_171679629
+http://research.publications.com/instance#Conference_b2907896-4aaa-4d46-a4bb-8cff1d939243	http://research.publications.com/ontology#hasEdition	http://research.publications.com/instance#Edition_6ed91555-0ca0-4491-8b1f-7e82eaf83aa6
+http://research.publications.com/instance#Paper_96848430	http://research.publications.com/ontology#cites	http://research.publications.com/instance#Paper_147458872
+http://research.publications.com/instance#Edition_5dc3274d-ecb7-4d11-9a53-a738b0109607	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://research.publications.com/ontology#Edition
+http://research.publications.com/instance#Paper_202473233	http://research.publications.com/ontology#hasAbstract	Abstract for paper: Social Studies Course from the Perspective of Parents -The Istanbul-Sultanbeyli Case
+http://research.publications.com/instance#Volume_34d84a5e-1454-492b-bb80-9ecb5b072941	http://research.publications.com/ontology#hasName	Volume 2
+http://research.publications.com/instance#Edition_485fe009-9e09-4a7c-80de-5f76a8ec0491	http://research.publications.com/ontology#hasEndDate	1940-01-02
+http://research.publications.com/instance#Edition_dbff5484-72fa-4af6-984f-02c83b92728e	http://research.publications.com/ontology#hasName	4
+http://research.publications.com/instance#Author_2072129086	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://research.publications.com/ontology#Author
+http://research.publications.com/instance#Paper_152919101	http://research.publications.com/ontology#cites	http://research.publications.com/instance#Paper_227697209
+http://research.publications.com/instance#Company_1057	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://research.publications.com/ontology#Company
+http://research.publications.com/instance#Conference_513b7832-98bf-4f66-b4b6-181edc9647ee	http://research.publications.com/ontology#url	nan
+http://research.publications.com/instance#Review_19135917_2054443841	http://research.publications.com/ontology#writtenByReviewer	http://research.publications.com/instance#Reviewer_2054443841
+http://research.publications.com/instance#Review_240775538_2074630461	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://research.publications.com/ontology#Review
+http://research.publications.com/instance#Paper_243437010	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://research.publications.com/ontology#Paper
+http://research.publications.com/instance#Review_234561917_115321826	http://research.publications.com/ontology#reviewOf	http://research.publications.com/instance#Paper_234561917
+http://research.publications.com/instance#Edition_9f210b14-c5e1-44d1-a481-66d7533f3e2b	http://research.publications.com/ontology#heldIn	http://research.publications.com/instance#City_for_4
+http://research.publications.com/instance#Review_19135917_91427121	http://research.publications.com/ontology#reviewOf	http://research.publications.com/instance#Paper_19135917
+http://research.publications.com/instance#Journal_5bb2682d-78e4-4d64-8022-c89ad35aae8e	http://research.publications.com/ontology#hasVolume	http://research.publications.com/instance#Volume_98b55365-d7a1-44e3-8efc-aa5db7923ccd
+http://research.publications.com/instance#Paper_41574606	http://research.publications.com/ontology#cites	http://research.publications.com/instance#Paper_28630532
+http://research.publications.com/instance#Paper_235484356	http://research.publications.com/ontology#publishedInJournal	http://research.publications.com/instance#Volume_a23365f7-00c2-4479-adab-486d5aa46dfd
+http://research.publications.com/instance#Edition_3d5e1808-0f29-4252-b8e2-23aab66c83ae	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://research.publications.com/ontology#Edition
+http://research.publications.com/instance#University_74	http://research.publications.com/ontology#hasName	Global University
+http://research.publications.com/instance#Edition_17058c73-16b5-4485-b096-47b16bf635bd	http://research.publications.com/ontology#hasStartDate	1971-10-24
+http://research.publications.com/instance#Author_9091633	http://research.publications.com/ontology#affiliatedTo	http://research.publications.com/instance#Company_1071
+http://research.publications.com/instance#Paper_96848430	http://research.publications.com/ontology#cites	http://research.publications.com/instance#Paper_238161099
+http://research.publications.com/instance#Review_75908838_9091633	http://research.publications.com/ontology#grade	5
+http://research.publications.com/instance#Author_135800392	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://research.publications.com/ontology#Author
+http://research.publications.com/instance#Volume_b295a9cb-e1f6-492b-b8de-528f10edf11c	http://research.publications.com/ontology#hasName	Volume 1
+http://research.publications.com/instance#Proceedings_Edition_56687deb-4d7a-4d3f-8084-376769d74122	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://research.publications.com/ontology#Proceedings
+http://research.publications.com/instance#Paper_166949395	http://research.publications.com/ontology#hasTitle	Efekty uczestnictwa inwestorów zagranicznych w polskiej rzeczywistości gospodarczej przełomu wieków
+http://research.publications.com/instance#Author_102186586	http://research.publications.com/ontology#affiliatedTo	http://research.publications.com/instance#University_16
+http://research.publications.com/instance#Proceedings_Edition_b1745275-7adc-4676-afae-105364640a5a	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://research.publications.com/ontology#Proceedings
+http://research.publications.com/instance#Edition_eb83ae16-8174-4b14-9191-762b4ce4f929	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://research.publications.com/ontology#Edition
+http://research.publications.com/instance#Review_138199703_2320390101	http://research.publications.com/ontology#grade	3
+http://research.publications.com/instance#Journal_66549ff8-1343-4c3f-b731-443baea15a80	http://research.publications.com/ontology#issn	2092-6553
+http://research.publications.com/instance#Review_15395218_2197847926	http://research.publications.com/ontology#reviewContent	Interesting work. The approach is promising, but the paper would benefit from a more robust evaluation and validation process.
+http://research.publications.com/instance#Author_136117945	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://research.publications.com/ontology#Author
+http://research.publications.com/instance#Review_75908838_2238095501	http://research.publications.com/ontology#reviewContent	The paper presents a novel approach, but the lack of comprehensive data analysis and comparison with existing techniques limits its impact.
+http://research.publications.com/instance#Edition_f647002f-a119-48bd-be2f-ecbf54684e4c	http://research.publications.com/ontology#hasEndDate	1940-01-25
+http://research.publications.com/instance#Edition_56687deb-4d7a-4d3f-8084-376769d74122	http://research.publications.com/ontology#hasStartDate	1988-08-31
+http://research.publications.com/instance#Paper_110369551	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://research.publications.com/ontology#Paper
+http://research.publications.com/instance#Volume_bbd1733f-4060-4495-906e-8c0ea2b48758	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://research.publications.com/ontology#Volume
+http://research.publications.com/instance#Paper_10463111	http://research.publications.com/ontology#hasKeyword	http://research.publications.com/instance#Keyword_data_mining
+http://research.publications.com/instance#Paper_153146977	http://research.publications.com/ontology#publishedInJournal	http://research.publications.com/instance#Volume_9b93669d-398c-4679-aaba-3df075153ca4
+http://research.publications.com/instance#Paper_138199703	http://research.publications.com/ontology#hasAbstract	Abstract for paper: RAW MEALS CONTAINING TRACE RE OXIDES TO IMPROVE QUALITY OF CEMENT CLINKER
+http://research.publications.com/instance#Review_226510755_2150224089	http://research.publications.com/ontology#reviewOf	http://research.publications.com/instance#Paper_226510755
+http://research.publications.com/instance#Conference_92d173c4-1b82-4dc1-b5c6-04812c9531c0	http://research.publications.com/ontology#hasName	Z Teorii i Praktyki Dydaktycznej Jezyka Polskiego
+http://research.publications.com/instance#Conference_8e0a6567-db09-4afa-8ec2-90f58d5cc695	http://research.publications.com/ontology#hasName	Chaos - Skandinavisk tidsskrift for religionshistoriske studier
+http://research.publications.com/instance#Paper_84365726	http://research.publications.com/ontology#hasKeyword	http://research.publications.com/instance#Keyword_natural_language_processing
+http://research.publications.com/instance#Proceedings_Edition_4f7891e1-7e43-4844-bdfa-d8567c263f86	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://research.publications.com/ontology#Proceedings
+http://research.publications.com/instance#Paper_10463111	http://research.publications.com/ontology#cites	http://research.publications.com/instance#Paper_247019183
+http://research.publications.com/instance#Edition_d7d23579-ea33-40c7-8775-d16b6c27d4a0	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://research.publications.com/ontology#Edition
+http://research.publications.com/instance#Edition_ba04e823-22b9-40aa-b1c8-cf2f9b6b6e91	http://research.publications.com/ontology#hasName	3
+http://research.publications.com/instance#Proceedings_Edition_bae17d4e-056f-4fb1-8caa-bc86775cfd4c	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://research.publications.com/ontology#Proceedings
+http://research.publications.com/instance#Paper_168917853	http://research.publications.com/ontology#cites	http://research.publications.com/instance#Paper_257891264
+http://research.publications.com/instance#Review_165070335_2077457340	http://research.publications.com/ontology#reviewOf	http://research.publications.com/instance#Paper_165070335
+http://research.publications.com/instance#Paper_83037164	http://research.publications.com/ontology#doi	nan
+http://research.publications.com/instance#Paper_67774686	http://research.publications.com/ontology#hasKeyword	http://research.publications.com/instance#Keyword_computer_vision
+http://research.publications.com/instance#Paper_131065985	http://research.publications.com/ontology#writtenBy	http://research.publications.com/instance#Author_114985438
+http://research.publications.com/instance#Proceedings_Edition_84bb9013-5c00-4137-880c-b67a31fa438a	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://research.publications.com/ontology#Proceedings
+http://research.publications.com/instance#Review_176561991_2077457340	http://research.publications.com/ontology#reviewOf	http://research.publications.com/instance#Paper_176561991
+http://research.publications.com/instance#Proceedings_Edition_b5abc4df-06ed-45b0-baf5-23eb180b3d28	http://research.publications.com/ontology#hasName	Proceedings of 2
+http://research.publications.com/instance#Edition_e21bd19b-fe8c-4fab-80cb-aa1313b1f5fb	http://research.publications.com/ontology#hasStartDate	1994-12-01
+http://research.publications.com/instance#Paper_201659424	http://research.publications.com/ontology#writtenBy	http://research.publications.com/instance#Author_2290777887
+http://research.publications.com/instance#Paper_178887072	http://research.publications.com/ontology#cites	http://research.publications.com/instance#Paper_83938103
+http://research.publications.com/instance#Paper_128776622	http://research.publications.com/ontology#assignedTo	http://research.publications.com/instance#Reviewer_16768256
+http://research.publications.com/instance#Paper_147458872	http://research.publications.com/ontology#doi	nan
+http://research.publications.com/instance#Paper_257891264	http://research.publications.com/ontology#writtenBy	http://research.publications.com/instance#Author_2077457340
+http://research.publications.com/ontology#publishedInJournal	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://www.w3.org/1999/02/22-rdf-syntax-ns#Property
+http://research.publications.com/instance#Volume_275c693d-f57c-47fc-9854-bf5b09377357	http://research.publications.com/ontology#hasName	Volume 1
+http://research.publications.com/instance#Review_153146977_2074630461	http://research.publications.com/ontology#grade	4
+http://research.publications.com/instance#Conference_367e9fe3-7f40-437f-b6d5-ceddc21b33c5	http://research.publications.com/ontology#hasEdition	http://research.publications.com/instance#Edition_f2071a1e-6349-4b2f-9e86-3db73386e9cd
+http://research.publications.com/instance#Paper_27244264	http://research.publications.com/ontology#cites	http://research.publications.com/instance#Paper_148662897
+http://research.publications.com/instance#Paper_35910203	http://research.publications.com/ontology#publishedInJournal	http://research.publications.com/instance#Volume_3c39bfea-5019-4b70-8b3c-a6fd5061947f
+http://research.publications.com/instance#Edition_9c84218b-33a7-416f-ae01-d2e0bd1012bf	http://research.publications.com/ontology#heldIn	http://research.publications.com/instance#City_for_5
+http://research.publications.com/instance#Edition_21c373a0-6439-4142-9a5d-21b3e2ee6a91	http://research.publications.com/ontology#heldIn	http://research.publications.com/instance#City_for_2
+http://research.publications.com/instance#Conference_08b9ee40-e346-4e61-b6bf-f662f4a1a224	http://research.publications.com/ontology#hasEdition	http://research.publications.com/instance#Edition_daef680e-cccc-46c8-8e1c-fa24319c63a9
+http://research.publications.com/instance#Paper_187295235	http://research.publications.com/ontology#hasTitle	Pesca e navigazione in Sardegna nell'antichità
+http://research.publications.com/instance#Paper_235484356	http://research.publications.com/ontology#writtenBy	http://research.publications.com/instance#Author_2052354680
+http://research.publications.com/instance#Paper_42152825	http://research.publications.com/ontology#hasTitle	"[Use of the ""soccu"" chewing stick in Senegal]."
+http://research.publications.com/instance#Conference_c7da0a3b-7465-4d65-b728-1536a5034239	http://research.publications.com/ontology#hasName	Der Zahnarzt; Colloquium med. dent
+http://research.publications.com/instance#Edition_f0013676-3721-4e05-8043-163304ef3de8	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://research.publications.com/ontology#Edition
+http://research.publications.com/instance#Edition_6f0fe76c-8741-40dc-b442-35830df8f16f	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://research.publications.com/ontology#Edition
+http://research.publications.com/instance#Edition_3bc98311-37b5-4663-9614-ce8260e2f75e	http://research.publications.com/ontology#hasStartDate	1945-04-05
+http://research.publications.com/instance#Edition_2a5dabd6-f148-4477-b4fb-d8c1e9938805	http://research.publications.com/ontology#heldIn	http://research.publications.com/instance#City_for_7
+http://research.publications.com/instance#Proceedings_Edition_f1109fab-a3ca-4e19-b4bd-5f256b13f961	http://research.publications.com/ontology#hasName	Proceedings of 2
+http://research.publications.com/instance#Edition_cab9d2ce-6c25-43f5-9cc4-0897de18cf36	http://research.publications.com/ontology#hasEndDate	1940-01-05
+http://research.publications.com/instance#Journal_0c74181f-080f-44e8-aa1d-fc404298096b	http://research.publications.com/ontology#hasVolume	http://research.publications.com/instance#Volume_9b93669d-398c-4679-aaba-3df075153ca4
+http://research.publications.com/instance#Paper_128776622	http://research.publications.com/ontology#publishedInJournal	http://research.publications.com/instance#Volume_9b93669d-398c-4679-aaba-3df075153ca4
+http://research.publications.com/instance#Paper_247834289	http://research.publications.com/ontology#writtenBy	http://research.publications.com/instance#Author_7750354
+http://research.publications.com/instance#Conference_d847bb7d-6931-4971-9cd1-00926b48a046	http://research.publications.com/ontology#hasName	Research Reports Of National Institute Of Technology (KOSEN), Kumamoto College
+http://research.publications.com/instance#Paper_110298854	http://research.publications.com/ontology#writtenBy	http://research.publications.com/instance#Author_2074547158
+http://research.publications.com/instance#Conference_795c40d0-0ed3-45a7-87c0-59efa03a53fa	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://research.publications.com/ontology#Conference
+http://research.publications.com/instance#Review_9930113_2074547158	http://research.publications.com/ontology#reviewOf	http://research.publications.com/instance#Paper_9930113
+http://research.publications.com/instance#Edition_bf713b35-d9ff-48a6-aec9-b1c9f262f4b2	http://research.publications.com/ontology#hasEndDate	1940-01-09
+http://research.publications.com/instance#Volume_a4e398da-6848-4495-9425-157ff189c704	http://research.publications.com/ontology#hasYear	2023
+http://research.publications.com/instance#Paper_111343877	http://research.publications.com/ontology#cites	http://research.publications.com/instance#Paper_85764932
+http://research.publications.com/instance#Edition_e5f71aa1-d76b-49b2-aeab-e27222c1b305	http://research.publications.com/ontology#heldIn	http://research.publications.com/instance#City_for_5
+http://research.publications.com/instance#Review_110298854_6929636	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://research.publications.com/ontology#Review
+http://research.publications.com/instance#Edition_e0174da6-f527-41fe-a312-9cf81df89a5b	http://research.publications.com/ontology#hasEndDate	1940-01-10
+http://research.publications.com/instance#Paper_195728009	http://research.publications.com/ontology#writtenBy	http://research.publications.com/instance#Author_2267417712
+http://research.publications.com/instance#Paper_165070335	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://research.publications.com/ontology#Paper
+http://research.publications.com/instance#Edition_6cc2bae2-9b28-4644-b2d0-b8bf2c7f9449	http://research.publications.com/ontology#heldIn	http://research.publications.com/instance#City_for_1
+http://research.publications.com/instance#Paper_64687638	http://research.publications.com/ontology#assignedTo	http://research.publications.com/instance#Reviewer_114985438
+http://research.publications.com/instance#Volume_8f79cb3c-9866-40f7-86ee-ff801b56f1b4	http://research.publications.com/ontology#hasYear	2021
+http://research.publications.com/instance#Edition_0501b842-8480-4d89-a143-dd05223e6050	http://research.publications.com/ontology#heldIn	http://research.publications.com/instance#City_for_4
+http://research.publications.com/instance#Edition_9e54ca1a-b247-4f9d-8526-41cc22cc0fb7	http://research.publications.com/ontology#hasName	2
+http://research.publications.com/instance#Review_67774686_1413260655	http://research.publications.com/ontology#writtenByReviewer	http://research.publications.com/instance#Reviewer_1413260655
+http://research.publications.com/instance#Volume_5084998f-e70f-4697-8d28-3b14fc986c4a	http://research.publications.com/ontology#hasYear	2023
+http://research.publications.com/instance#Review_57163336_2077848049	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://research.publications.com/ontology#Review
+http://research.publications.com/instance#Paper_128938719	http://research.publications.com/ontology#writtenBy	http://research.publications.com/instance#Author_114237122
+http://research.publications.com/instance#Journal_4f1b170f-38ed-45f3-b195-0d4bb0a86d23	http://research.publications.com/ontology#hasVolume	http://research.publications.com/instance#Volume_79c528bd-0ea3-4f9b-a068-6cb1ceb52973
+http://research.publications.com/instance#Paper_19135917	http://research.publications.com/ontology#cites	http://research.publications.com/instance#Paper_25655394
+http://research.publications.com/ontology#writtenByReviewer	http://www.w3.org/2000/01/rdf-schema#label	written by reviewer
+http://research.publications.com/instance#Edition_f2071a1e-6349-4b2f-9e86-3db73386e9cd	http://research.publications.com/ontology#hasEndDate	1940-01-24
+http://research.publications.com/instance#Author_1395625497	http://research.publications.com/ontology#hasName	Rayan Sidig Adam Abdelgalil
+http://research.publications.com/instance#Proceedings_Edition_e6d3b242-b4f0-4fb9-b5ae-872740b4ae8d	http://research.publications.com/ontology#hasName	Proceedings of 6
+http://research.publications.com/instance#Paper_240775538	http://research.publications.com/ontology#publishedInJournal	http://research.publications.com/instance#Volume_c918b749-2a48-47d4-859c-ee4e240f6ac9
+http://research.publications.com/instance#Paper_258205738	http://research.publications.com/ontology#hasTitle	The Robot-Guide for Indoor Navigation
+http://research.publications.com/instance#Journal_7e79de3e-93d0-413c-9f0d-e0288f94b4d5	http://research.publications.com/ontology#hasVolume	http://research.publications.com/instance#Volume_8015a4e9-7d6c-45b7-933e-a9f065caed3a
+http://research.publications.com/instance#Edition_b21fdcca-4afc-45b8-a65a-e63d59c0d66b	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://research.publications.com/ontology#Edition
+http://research.publications.com/instance#Paper_85764932	http://research.publications.com/ontology#hasAbstract	Abstract for paper: SURVIVAL OF B LYMPHOCYTES IS PROLONGED AFTER INFECTION WITH IMMORTALIZING VIRUSES
+http://research.publications.com/instance#Author_2091679290	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://research.publications.com/ontology#Author
+http://research.publications.com/instance#Conference_68352aa5-eb25-45da-8e71-db5584f32413	http://research.publications.com/ontology#hasEdition	http://research.publications.com/instance#Edition_f84ffc6f-7356-41d2-a8b3-24bbfb8a0d87
+http://research.publications.com/instance#Proceedings_Edition_38c5cfb6-00a3-43e6-a3e1-37d33e6ee546	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://research.publications.com/ontology#Proceedings
+http://research.publications.com/instance#Paper_114391730	http://research.publications.com/ontology#publishedInJournal	http://research.publications.com/instance#Volume_c0d68b04-11c7-43d3-92b4-2d3af5e485c2
+http://research.publications.com/instance#Paper_185068317	http://research.publications.com/ontology#cites	http://research.publications.com/instance#Paper_176496998
+http://research.publications.com/instance#Journal_2498acbb-0afe-48d5-b314-b74e15a70e1c	http://research.publications.com/ontology#hasVolume	http://research.publications.com/instance#Volume_296ff9bf-ff80-4533-b857-62d7f98d0368
+http://research.publications.com/instance#Paper_133758434	http://research.publications.com/ontology#correspondingAuthor	http://research.publications.com/instance#Author_16768256
+http://research.publications.com/instance#Paper_235484356	http://research.publications.com/ontology#hasKeyword	http://research.publications.com/instance#Keyword_robotics
+http://research.publications.com/instance#Proceedings_Edition_c0f3888a-d2a8-48f6-8e6b-2e05e44686bd	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://research.publications.com/ontology#Proceedings
+http://research.publications.com/instance#Volume_eb4b6f3f-7d35-4115-b2c4-a6ac20677095	http://research.publications.com/ontology#hasYear	2021
+http://research.publications.com/instance#Author_2074630461	http://research.publications.com/ontology#affiliatedTo	http://research.publications.com/instance#University_3
+http://research.publications.com/instance#Edition_7861fd55-a0a8-4ce2-bf0f-3c601a18f494	http://research.publications.com/ontology#hasEndDate	1940-01-08
+http://research.publications.com/instance#Volume_4458f084-6d71-41b6-a3a3-2bbf3ca73e47	http://research.publications.com/ontology#hasYear	2022
+http://research.publications.com/instance#Journal_4c04ecbc-9748-4205-8401-e315cc2e70b1	http://research.publications.com/ontology#hasName	PETITUM
+http://research.publications.com/instance#Edition_9a09b491-e133-4b0f-8392-1b448b6a3676	http://research.publications.com/ontology#hasStartDate	1965-08-29
+http://research.publications.com/instance#Journal_9a697a9f-6d90-4a86-ae77-58043249dcd9	http://research.publications.com/ontology#url	http://www.remedypublications.com/journal-of-clinical-nephrology-kidney-diseases-home.php
+http://research.publications.com/instance#Author_2052354680	http://research.publications.com/ontology#hasName	Jörg Heinrich
+http://research.publications.com/ontology#hasTitle	http://www.w3.org/2000/01/rdf-schema#label	has title
+http://research.publications.com/instance#Proceedings_Edition_aee7950e-b46e-4055-913d-a99a686fac4d	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://research.publications.com/ontology#Proceedings
+http://research.publications.com/instance#Edition_90ca3a54-2fc4-4943-a2f4-4cb59c31f031	http://research.publications.com/ontology#heldIn	http://research.publications.com/instance#City_for_4
+http://research.publications.com/instance#Paper_153146977	http://research.publications.com/ontology#cites	http://research.publications.com/instance#Paper_35910203
+http://research.publications.com/instance#Proceedings_Edition_365bacb2-b712-45fe-8750-f1aebe0c9a82	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://research.publications.com/ontology#Proceedings
+http://research.publications.com/instance#Journal_9a697a9f-6d90-4a86-ae77-58043249dcd9	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://research.publications.com/ontology#Journal
+http://research.publications.com/instance#Review_25655394_117796062	http://research.publications.com/ontology#reviewContent	Interesting work. The approach is promising, but the paper would benefit from a more robust evaluation and validation process.
+http://research.publications.com/instance#Edition_5e89a1b0-bac1-4f1c-815f-15036db8693f	http://research.publications.com/ontology#hasStartDate	1956-12-24
+http://research.publications.com/instance#Paper_253618518	http://research.publications.com/ontology#assignedTo	http://research.publications.com/instance#Reviewer_2223598156
+http://research.publications.com/instance#Paper_96848430	http://research.publications.com/ontology#cites	http://research.publications.com/instance#Paper_87417287
+http://research.publications.com/instance#Volume_9b93669d-398c-4679-aaba-3df075153ca4	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://research.publications.com/ontology#Volume
+http://research.publications.com/instance#Paper_237842496	http://research.publications.com/ontology#cites	http://research.publications.com/instance#Paper_247019183
+http://research.publications.com/ontology#writtenBy	http://www.w3.org/2000/01/rdf-schema#range	http://research.publications.com/ontology#Author
+http://research.publications.com/instance#Company_1042	http://research.publications.com/ontology#hasName	Innovative Solutions Inc.
+http://research.publications.com/instance#Paper_100436279	http://research.publications.com/ontology#hasAbstract	Abstract for paper: Decontamination procedure for graphite furnace and AS-40 autosampler after use of nickel nitrate matrix modifier
+http://research.publications.com/instance#Paper_35910203	http://research.publications.com/ontology#cites	http://research.publications.com/instance#Paper_235484356
+http://research.publications.com/instance#Edition_eb83ae16-8174-4b14-9191-762b4ce4f929	http://research.publications.com/ontology#hasName	3
+http://research.publications.com/instance#Review_127200544_11699225	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://research.publications.com/ontology#Review
+http://research.publications.com/instance#Edition_cba8dd3b-c295-4e5f-811b-76c3bc4b0ceb	http://research.publications.com/ontology#heldIn	http://research.publications.com/instance#City_for_2
+http://research.publications.com/instance#Paper_9930113	http://research.publications.com/ontology#hasKeyword	http://research.publications.com/instance#Keyword_cloud_computing
+http://research.publications.com/instance#Conference_e3ef2d76-c11f-4623-9d64-f1e66949c4c8	http://research.publications.com/ontology#hasName	Jurnal Akademi Pariwisata Medan
+http://research.publications.com/instance#Paper_139856224	http://research.publications.com/ontology#assignedTo	http://research.publications.com/instance#Reviewer_2072129086
+http://research.publications.com/instance#Journal_9a697a9f-6d90-4a86-ae77-58043249dcd9	http://research.publications.com/ontology#issn	2689-9515
+http://research.publications.com/instance#Edition_b6396850-ef47-4ea4-ac01-49d535139167	http://research.publications.com/ontology#hasEndDate	1940-01-09
+http://research.publications.com/instance#Paper_225798605	http://research.publications.com/ontology#publishedInJournal	http://research.publications.com/instance#Volume_cc781294-3200-4ebd-9a99-2377d638e218
+http://research.publications.com/instance#Paper_247019183	http://research.publications.com/ontology#hasKeyword	http://research.publications.com/instance#Keyword_natural_language_processing
+http://research.publications.com/instance#Edition_0ca28365-2fac-4899-80df-8ec299310a38	http://research.publications.com/ontology#hasName	3
+http://research.publications.com/instance#Paper_249370499	http://research.publications.com/ontology#publishedInJournal	http://research.publications.com/instance#Volume_058b07a8-251f-4231-80e3-5de8858f4b00
+http://research.publications.com/instance#Paper_19135917	http://research.publications.com/ontology#cites	http://research.publications.com/instance#Paper_83037164
+http://research.publications.com/instance#Edition_626daf8c-f4b2-4c97-a605-b287dc4d3cb9	http://research.publications.com/ontology#hasStartDate	2021-07-06
+http://research.publications.com/instance#Paper_245701070	http://research.publications.com/ontology#cites	http://research.publications.com/instance#Paper_128938719
+http://research.publications.com/instance#Paper_227697209	http://research.publications.com/ontology#cites	http://research.publications.com/instance#Paper_128776622
+http://research.publications.com/instance#Author_114237122	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://research.publications.com/ontology#Author
+http://research.publications.com/instance#Proceedings_Edition_80baa809-ad01-4c03-a17a-c57eacae5c1b	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://research.publications.com/ontology#Proceedings
+http://research.publications.com/instance#Author_134841893	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://research.publications.com/ontology#Author
+http://research.publications.com/instance#Paper_41574606	http://research.publications.com/ontology#assignedTo	http://research.publications.com/instance#Reviewer_88939460
+http://research.publications.com/instance#Volume_b45fc68a-8e35-419b-8ce3-14f3bb50cb57	http://research.publications.com/ontology#hasYear	2020
+http://research.publications.com/instance#Volume_640effc2-d4c0-45c8-90c2-059679c31d8a	http://research.publications.com/ontology#hasYear	2023
+http://research.publications.com/instance#Paper_166949395	http://research.publications.com/ontology#publishedInJournal	http://research.publications.com/instance#Volume_9cbd805f-51f6-4526-b93c-f8254dc492d8
+http://research.publications.com/instance#Paper_114821127	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://research.publications.com/ontology#Paper
+http://research.publications.com/instance#Conference_aba0bc6c-236a-4dc0-8a43-c204c07832e9	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://research.publications.com/ontology#Conference
+http://research.publications.com/instance#Volume_43ea629c-079a-4076-a9d7-48b1fbf222e2	http://research.publications.com/ontology#hasYear	2023
+http://research.publications.com/instance#Paper_57163336	http://research.publications.com/ontology#publishedInJournal	http://research.publications.com/instance#Volume_c30ae797-8140-40be-8ed5-5afe44bae802
+http://research.publications.com/instance#Edition_dc0ff178-1c3a-41ec-a9ed-9fa715e8c0c6	http://research.publications.com/ontology#heldIn	http://research.publications.com/instance#City_for_3
+http://research.publications.com/instance#Paper_237842496	http://research.publications.com/ontology#doi	10.4000/books.efr.7802
+http://research.publications.com/instance#Review_114391730_2085707060	http://research.publications.com/ontology#reviewOf	http://research.publications.com/instance#Paper_114391730
+http://research.publications.com/instance#Edition_5a487f53-ad7d-4e5c-a326-d96c51873e9b	http://research.publications.com/ontology#hasStartDate	1960-10-19
+http://research.publications.com/instance#Paper_120690647	http://research.publications.com/ontology#cites	http://research.publications.com/instance#Paper_224986272
+http://research.publications.com/instance#Paper_147458872	http://research.publications.com/ontology#assignedTo	http://research.publications.com/instance#Reviewer_2127672639
+http://research.publications.com/instance#Proceedings_Edition_c625bf82-ee21-4524-a7a7-296b5bd0353c	http://research.publications.com/ontology#hasName	Proceedings of 1
+http://research.publications.com/instance#Paper_171679629	http://research.publications.com/ontology#writtenBy	http://research.publications.com/instance#Author_9091633
+http://research.publications.com/instance#Review_137761863_2077848049	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://research.publications.com/ontology#Review
+http://research.publications.com/instance#Paper_46830937	http://research.publications.com/ontology#publishedInJournal	http://research.publications.com/instance#Volume_058b07a8-251f-4231-80e3-5de8858f4b00
+http://research.publications.com/instance#Paper_38839406	http://research.publications.com/ontology#hasKeyword	http://research.publications.com/instance#Keyword_deep_learning
+http://research.publications.com/instance#Proceedings_Edition_23d74571-8d5c-4b33-b93c-95fc002f0cfd	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://research.publications.com/ontology#Proceedings
+http://research.publications.com/instance#Edition_cd05e7d3-3b6a-489e-a07e-dc2fb5caf51d	http://research.publications.com/ontology#hasName	9
+http://research.publications.com/instance#Volume_ea75ebc1-8434-42ff-a9c0-f0c5bb330bff	http://research.publications.com/ontology#hasYear	2020
+http://research.publications.com/instance#Review_224986272_2094549396	http://research.publications.com/ontology#reviewContent	A strong paper with great potential. The results are convincing, but more details on implementation would be helpful.
+http://research.publications.com/instance#Paper_110298854	http://research.publications.com/ontology#doi	10.1016/0924-4247(93)80138-7
+http://research.publications.com/instance#Edition_c2861aef-d627-47cf-8240-3b378eba966d	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://research.publications.com/ontology#Edition
+http://research.publications.com/instance#Edition_24fd1196-54d9-4ca4-ba1d-5f19c8d82b93	http://research.publications.com/ontology#hasStartDate	2013-02-15
+http://research.publications.com/instance#Edition_e5f71aa1-d76b-49b2-aeab-e27222c1b305	http://research.publications.com/ontology#hasStartDate	2014-01-05
+http://research.publications.com/instance#Proceedings_Edition_a6624bde-f981-4a67-9f0a-87544e87e7e0	http://research.publications.com/ontology#hasName	Proceedings of 3
+http://research.publications.com/instance#Author_2074547158	http://research.publications.com/ontology#hasName	Baruce A. Bohm
+http://research.publications.com/instance#Proceedings_Edition_496d1c14-3dd3-4568-b537-8e1dd7dc8686	http://research.publications.com/ontology#hasName	Proceedings of 4
+http://research.publications.com/instance#Paper_187295235	http://research.publications.com/ontology#publishedInJournal	http://research.publications.com/instance#Volume_621cc949-82f0-4cfe-a451-e56d66c393b5
+http://research.publications.com/instance#Paper_133790351	http://research.publications.com/ontology#cites	http://research.publications.com/instance#Paper_27244264
+http://research.publications.com/instance#Review_226510755_123468344	http://research.publications.com/ontology#writtenByReviewer	http://research.publications.com/instance#Reviewer_123468344
+http://research.publications.com/instance#Paper_185412623	http://research.publications.com/ontology#cites	http://research.publications.com/instance#Paper_75908838
+http://research.publications.com/instance#Paper_87417287	http://research.publications.com/ontology#assignedTo	http://research.publications.com/instance#Reviewer_2080212062
+http://research.publications.com/instance#Review_16492375_119260307	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://research.publications.com/ontology#Review
+http://research.publications.com/instance#Paper_168917853	http://research.publications.com/ontology#correspondingAuthor	http://research.publications.com/instance#Author_115725224
+http://research.publications.com/instance#Edition_9a09b491-e133-4b0f-8392-1b448b6a3676	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://research.publications.com/ontology#Edition
+http://research.publications.com/instance#Paper_186868338	http://research.publications.com/ontology#cites	http://research.publications.com/instance#Paper_147458872
+http://research.publications.com/instance#Paper_110298854	http://research.publications.com/ontology#hasYear	1993
+http://research.publications.com/instance#Review_100436279_70184946	http://research.publications.com/ontology#writtenByReviewer	http://research.publications.com/instance#Reviewer_70184946
+http://research.publications.com/instance#Review_127200544_108608370	http://research.publications.com/ontology#grade	5
+http://research.publications.com/instance#Conference_4824c0e1-d5cf-458e-9da2-46bfeba07d68	http://research.publications.com/ontology#url	nan
+http://research.publications.com/instance#Journal_13aa0ad1-35bc-4524-8e50-21b28e9f70c9	http://research.publications.com/ontology#hasVolume	http://research.publications.com/instance#Volume_a23365f7-00c2-4479-adab-486d5aa46dfd
+http://research.publications.com/instance#Paper_268173266	http://research.publications.com/ontology#cites	http://research.publications.com/instance#Paper_34333286
+http://research.publications.com/instance#Review_234561917_115321826	http://research.publications.com/ontology#grade	4
+http://research.publications.com/instance#Edition_0ab929c4-28a8-4457-811f-11f8b07f84fc	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://research.publications.com/ontology#Edition
+http://research.publications.com/instance#Review_199123959_2072129086	http://research.publications.com/ontology#reviewOf	http://research.publications.com/instance#Paper_199123959
+http://research.publications.com/instance#Review_232002736_144705453	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://research.publications.com/ontology#Review
+http://research.publications.com/instance#Volume_dc872d68-0095-44c9-8e06-bc7f04da59bb	http://research.publications.com/ontology#hasYear	2022
+http://research.publications.com/instance#Review_185068317_1484740366	http://research.publications.com/ontology#grade	4
+http://research.publications.com/instance#Edition_ce78844c-73db-43e9-890f-4c0d36ccb424	http://research.publications.com/ontology#heldIn	http://research.publications.com/instance#City_for_2
+http://research.publications.com/instance#Edition_9f1e0468-5836-4700-9bee-3214862723cd	http://research.publications.com/ontology#hasStartDate	1952-03-27
+http://research.publications.com/instance#Edition_9a09b491-e133-4b0f-8392-1b448b6a3676	http://research.publications.com/ontology#hasEndDate	1940-01-07
+http://research.publications.com/instance#Paper_225798605	http://research.publications.com/ontology#writtenBy	http://research.publications.com/instance#Author_2320390101
+http://research.publications.com/instance#Proceedings_Edition_f0013676-3721-4e05-8043-163304ef3de8	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://research.publications.com/ontology#Proceedings
+http://research.publications.com/instance#Conference_5c71b526-1598-4434-a92b-e43d3f77ceb4	http://research.publications.com/ontology#hasEdition	http://research.publications.com/instance#Edition_54e76ea4-fc61-4710-9354-9caba28e0851
+http://research.publications.com/instance#Author_2247065924	http://research.publications.com/ontology#hindex	1
+http://research.publications.com/instance#Review_96848430_2212810753	http://research.publications.com/ontology#writtenByReviewer	http://research.publications.com/instance#Reviewer_2212810753
+http://research.publications.com/instance#Paper_237842496	http://research.publications.com/ontology#hasAbstract	Abstract for paper: Le marché des matières premières dans l’Antiquité et au Moyen Âge
+http://research.publications.com/instance#Review_137761863_2077848049	http://research.publications.com/ontology#writtenByReviewer	http://research.publications.com/instance#Reviewer_2077848049
+http://research.publications.com/instance#Proceedings_Edition_6791e017-818d-4f15-b69a-305c6002806c	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://research.publications.com/ontology#Proceedings
+http://research.publications.com/instance#Proceedings_Edition_b8e82ecc-fca6-40ac-8215-b390878eb218	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://research.publications.com/ontology#Proceedings
+http://research.publications.com/instance#Review_201659424_2052354680	http://research.publications.com/ontology#reviewContent	The research is well-organized, and the arguments are clear. However, it could benefit from a more detailed discussion on future work.
+http://research.publications.com/instance#Paper_147951709	http://research.publications.com/ontology#hasKeyword	http://research.publications.com/instance#Keyword_deep_learning
+http://research.publications.com/instance#Paper_232002736	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://research.publications.com/ontology#Paper
+http://research.publications.com/instance#Paper_131065985	http://research.publications.com/ontology#cites	http://research.publications.com/instance#Paper_186868338
+http://research.publications.com/instance#Conference_3656c155-e0de-49f0-b438-aa75162345df	http://research.publications.com/ontology#hasEdition	http://research.publications.com/instance#Edition_208a9762-cf04-4f44-aa74-ccd59859963b
+http://research.publications.com/instance#Edition_e5898b9f-7026-44dc-a4c9-87faf0d134a5	http://research.publications.com/ontology#hasName	5
+http://research.publications.com/instance#Proceedings_Edition_b637419f-51ef-4f11-b29b-20ce6bbfc0c5	http://research.publications.com/ontology#hasName	Proceedings of 1
+http://research.publications.com/instance#Review_237842496_2074630461	http://research.publications.com/ontology#reviewContent	This study offers a solid introduction to the topic but lacks originality and could benefit from a more thorough literature review.
+http://research.publications.com/instance#Volume_a5ea5efd-9677-474c-8a9f-a1db6c63bd6d	http://research.publications.com/ontology#hasName	Volume 1
+http://research.publications.com/instance#Edition_2ce30c9d-97d5-48f6-9bd1-383ba146dd9a	http://research.publications.com/ontology#heldIn	http://research.publications.com/instance#City_for_3
+http://research.publications.com/instance#Review_240775538_147038253	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://research.publications.com/ontology#Review
+http://research.publications.com/instance#Paper_127200544	http://research.publications.com/ontology#publishedInJournal	http://research.publications.com/instance#Volume_e375c4a3-4603-4eab-8b2b-871a45a03172
+http://research.publications.com/instance#Edition_61dc53ed-256a-46cc-817b-96d34819e0db	http://research.publications.com/ontology#heldIn	http://research.publications.com/instance#City_for_4
+http://research.publications.com/instance#Paper_83938103	http://research.publications.com/ontology#publishedInJournal	http://research.publications.com/instance#Volume_39f28002-5dd3-42f0-b6bf-82eeaaee36ef
+http://research.publications.com/instance#Author_2223598156	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://research.publications.com/ontology#Author
+http://research.publications.com/instance#Edition_13c6fd0f-8f6d-4be8-ad6c-e15ac278d92e	http://research.publications.com/ontology#hasName	7
+http://research.publications.com/instance#Paper_137761863	http://research.publications.com/ontology#writtenBy	http://research.publications.com/instance#Author_2327561551
+http://research.publications.com/instance#Paper_139856224	http://research.publications.com/ontology#doi	10.31788/rjc.2018.1132098
+http://research.publications.com/instance#Review_110298854_6929636	http://research.publications.com/ontology#reviewContent	Interesting work. The approach is promising, but the paper would benefit from a more robust evaluation and validation process.
+http://research.publications.com/instance#Proceedings_Edition_e947a0f9-40ff-4fba-b30d-39cbcd34a850	http://research.publications.com/ontology#hasName	Proceedings of 5
+http://research.publications.com/instance#Review_224305705_96020583	http://research.publications.com/ontology#reviewOf	http://research.publications.com/instance#Paper_224305705
+http://research.publications.com/instance#Paper_19135917	http://research.publications.com/ontology#hasKeyword	http://research.publications.com/instance#Keyword_neural_networks
+http://research.publications.com/instance#Review_83938103_2269252520	http://research.publications.com/ontology#reviewOf	http://research.publications.com/instance#Paper_83938103
+http://research.publications.com/instance#Volume_375d7955-ee12-43de-bb11-2abc1f78a176	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://research.publications.com/ontology#Volume
+http://research.publications.com/instance#Review_176561991_117883993	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://research.publications.com/ontology#Review
+http://research.publications.com/instance#Paper_127200544	http://research.publications.com/ontology#publishedInJournal	http://research.publications.com/instance#Volume_9e9bfe87-97c9-44ad-81d1-8c09098c3714
+http://research.publications.com/instance#University_18	http://research.publications.com/ontology#hasName	National College
+http://research.publications.com/instance#Edition_67ca6555-b54b-45a4-88ef-6bc5695d4a44	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://research.publications.com/ontology#Edition
+http://research.publications.com/instance#Volume_29f64511-49ff-40ef-9ded-295883b7fee1	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://research.publications.com/ontology#Volume
+http://research.publications.com/instance#Paper_34333286	http://research.publications.com/ontology#cites	http://research.publications.com/instance#Paper_201659424
+http://research.publications.com/instance#Paper_29246173	http://research.publications.com/ontology#cites	http://research.publications.com/instance#Paper_241084347
+http://research.publications.com/instance#Volume_066fb449-e627-4580-b616-5e75467a6b38	http://research.publications.com/ontology#hasName	Volume 1
+http://research.publications.com/instance#Paper_225798605	http://research.publications.com/ontology#publishedInJournal	http://research.publications.com/instance#Volume_c918b749-2a48-47d4-859c-ee4e240f6ac9
+http://research.publications.com/instance#Paper_154462421	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://research.publications.com/ontology#Paper
+http://research.publications.com/instance#Edition_6c3e7413-499f-4297-9edc-8696ce8dbda2	http://research.publications.com/ontology#heldIn	http://research.publications.com/instance#City_for_6
+http://research.publications.com/instance#Edition_9f210b14-c5e1-44d1-a481-66d7533f3e2b	http://research.publications.com/ontology#hasStartDate	1940-04-15
+http://research.publications.com/instance#Journal_fe824f38-150f-4635-b7f6-0b31dd00981f	http://research.publications.com/ontology#issn	0044-5401
+http://research.publications.com/instance#Proceedings_Edition_9c83c6fb-3ffb-49da-b5f8-7ec82fe9a711	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://research.publications.com/ontology#Proceedings
+http://research.publications.com/instance#Volume_105edf09-f5d8-4ad0-9e5d-be78570c290c	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://research.publications.com/ontology#Volume
+http://research.publications.com/instance#Edition_60eed629-43cb-4ca1-9dd2-dc7e80e06e29	http://research.publications.com/ontology#hasEndDate	1940-01-25
+http://research.publications.com/instance#Review_133758434_2259804120	http://research.publications.com/ontology#reviewContent	An excellent study with great depth and clarity. The methodology is well-designed and results are compelling.
+http://research.publications.com/instance#Review_224305705_136117945	http://research.publications.com/ontology#reviewContent	A strong paper with great potential. The results are convincing, but more details on implementation would be helpful.
+http://research.publications.com/instance#Paper_75908838	http://research.publications.com/ontology#cites	http://research.publications.com/instance#Paper_131065985
+http://research.publications.com/instance#Paper_195728009	http://research.publications.com/ontology#cites	http://research.publications.com/instance#Paper_100436279
+http://research.publications.com/instance#Paper_85764932	http://research.publications.com/ontology#publishedInJournal	http://research.publications.com/instance#Volume_b12158ce-2526-46f2-805a-cf88af14c68e
+http://research.publications.com/instance#Edition_46d923fb-ec41-49bf-8b6e-2837c7c877bc	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://research.publications.com/ontology#Edition
+http://research.publications.com/instance#Volume_66ce418c-e6d6-464f-9632-29785a14703a	http://research.publications.com/ontology#hasYear	2022
+http://research.publications.com/instance#Author_135800392	http://research.publications.com/ontology#hasName	平山 綾
+http://research.publications.com/instance#Edition_d2924708-f008-4c4e-a6ce-6cf6eecfe802	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://research.publications.com/ontology#Edition
+http://research.publications.com/instance#Paper_224986272	http://research.publications.com/ontology#cites	http://research.publications.com/instance#Paper_168917853
+http://research.publications.com/instance#Paper_83938103	http://research.publications.com/ontology#cites	http://research.publications.com/instance#Paper_25655394
+http://research.publications.com/instance#Paper_147458872	http://research.publications.com/ontology#cites	http://research.publications.com/instance#Paper_83037164
+http://research.publications.com/instance#Paper_127200544	http://research.publications.com/ontology#cites	http://research.publications.com/instance#Paper_41574606
+http://research.publications.com/instance#Journal_2498acbb-0afe-48d5-b314-b74e15a70e1c	http://research.publications.com/ontology#issn	2067-225X
+http://research.publications.com/instance#Review_154462421_2223598156	http://research.publications.com/ontology#writtenByReviewer	http://research.publications.com/instance#Reviewer_2223598156
+http://research.publications.com/instance#Volume_49199f50-7c8c-4800-92e9-92aadd25e19b	http://research.publications.com/ontology#hasName	Volume 2
+http://research.publications.com/instance#Paper_75908838	http://research.publications.com/ontology#cites	http://research.publications.com/instance#Paper_29246173
+http://research.publications.com/instance#Journal_7f0e7129-4141-4b11-957f-5ad20bb1458e	http://research.publications.com/ontology#url	http://muse.jhu.edu/journals/sewanee_review/
+http://research.publications.com/instance#Edition_f3934d43-8b87-4379-ac00-23bd9216e7cb	http://research.publications.com/ontology#hasEndDate	1940-01-16
+http://research.publications.com/instance#Review_111343877_2072129086	http://research.publications.com/ontology#grade	5
+http://research.publications.com/instance#Journal_2b2bb9f4-4da3-49b5-a78f-6de69540a54f	http://research.publications.com/ontology#hasName	Jurnal Sains Sukan & Pendidikan Jasmani
+http://research.publications.com/instance#Paper_147951709	http://research.publications.com/ontology#cites	http://research.publications.com/instance#Paper_249370499
+http://research.publications.com/instance#Paper_213039282	http://research.publications.com/ontology#cites	http://research.publications.com/instance#Paper_75908838
+http://research.publications.com/instance#Volume_5ef58b87-fab3-4387-b202-ad95dcb98778	http://research.publications.com/ontology#hasName	Volume 2
+http://research.publications.com/instance#Journal_9a697a9f-6d90-4a86-ae77-58043249dcd9	http://research.publications.com/ontology#hasVolume	http://research.publications.com/instance#Volume_1b27b956-5a56-4637-88a4-fdcc4928b40c
+http://research.publications.com/instance#Volume_1de371bb-906c-44d6-bea9-ed3087d7eee6	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://research.publications.com/ontology#Volume
+http://research.publications.com/instance#Review_19135917_2080584615	http://research.publications.com/ontology#reviewContent	The research is well-organized, and the arguments are clear. However, it could benefit from a more detailed discussion on future work.
+http://research.publications.com/instance#Paper_28630532	http://research.publications.com/ontology#cites	http://research.publications.com/instance#Paper_127200544
+http://research.publications.com/instance#Journal_7f0e7129-4141-4b11-957f-5ad20bb1458e	http://research.publications.com/ontology#hasVolume	http://research.publications.com/instance#Volume_7948cab1-5048-43d2-a1e7-7f0d47f141ce
+http://research.publications.com/instance#Edition_8e73334e-e93a-4e0a-9f0c-6c71dba4122e	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://research.publications.com/ontology#Edition
+http://research.publications.com/instance#Paper_147458872	http://research.publications.com/ontology#cites	http://research.publications.com/instance#Paper_202473233
+http://research.publications.com/instance#Paper_83938103	http://research.publications.com/ontology#doi	nan
+http://research.publications.com/instance#City_for_7	http://research.publications.com/ontology#hasName	City_for_7
+http://research.publications.com/instance#Paper_26397690	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://research.publications.com/ontology#Paper
+http://research.publications.com/instance#Paper_258205738	http://research.publications.com/ontology#writtenBy	http://research.publications.com/instance#Author_144705453
+http://research.publications.com/instance#Edition_d73bc945-c683-46f8-ace3-3e968b5401cb	http://research.publications.com/ontology#hasStartDate	2000-04-11
+http://research.publications.com/instance#Proceedings_Edition_d1c69dd1-17c6-4293-95cc-db60099df8c2	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://research.publications.com/ontology#Proceedings
+http://research.publications.com/instance#Review_131065985_2085707060	http://research.publications.com/ontology#writtenByReviewer	http://research.publications.com/instance#Reviewer_2085707060
+http://research.publications.com/instance#Paper_110369551	http://research.publications.com/ontology#cites	http://research.publications.com/instance#Paper_83037164
+http://research.publications.com/instance#Edition_051d598e-eb26-43dd-aced-ca81bb1b0634	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://research.publications.com/ontology#Edition
+http://research.publications.com/instance#Edition_959cb4a9-9178-4908-838f-7764d997298c	http://research.publications.com/ontology#heldIn	http://research.publications.com/instance#City_for_2
+http://research.publications.com/instance#Paper_128776622	http://research.publications.com/ontology#cites	http://research.publications.com/instance#Paper_176561991
+http://research.publications.com/instance#Paper_147458872	http://research.publications.com/ontology#cites	http://research.publications.com/instance#Paper_139856224
+http://research.publications.com/instance#Paper_202473233	http://research.publications.com/ontology#writtenBy	http://research.publications.com/instance#Author_2259804120
+http://research.publications.com/instance#Edition_2872c3be-b36a-43bc-9109-b3add245a20d	http://research.publications.com/ontology#hasName	2
+http://research.publications.com/instance#Paper_110298854	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://research.publications.com/ontology#Paper
+http://research.publications.com/instance#Edition_f647002f-a119-48bd-be2f-ecbf54684e4c	http://research.publications.com/ontology#hasName	4
+http://research.publications.com/instance#Paper_41574606	http://research.publications.com/ontology#cites	http://research.publications.com/instance#Paper_234561917
+http://research.publications.com/instance#Proceedings_Edition_68de109f-dc80-4591-8ccf-422c6bbf5196	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://research.publications.com/ontology#Proceedings
+http://research.publications.com/instance#Paper_247834289	http://research.publications.com/ontology#cites	http://research.publications.com/instance#Paper_42152825
+http://research.publications.com/instance#Paper_153146977	http://research.publications.com/ontology#publishedInJournal	http://research.publications.com/instance#Volume_3c39bfea-5019-4b70-8b3c-a6fd5061947f
+http://research.publications.com/instance#Paper_35910203	http://research.publications.com/ontology#writtenBy	http://research.publications.com/instance#Author_1395625497
+http://research.publications.com/instance#Paper_258205738	http://research.publications.com/ontology#cites	http://research.publications.com/instance#Paper_34333286
+http://research.publications.com/instance#Volume_9bc7b638-cac5-4646-8b20-37b94cae0721	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://research.publications.com/ontology#Volume
+http://research.publications.com/ontology#publishedIn	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://www.w3.org/1999/02/22-rdf-syntax-ns#Property
+http://research.publications.com/instance#Company_1058	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://research.publications.com/ontology#Company
+http://research.publications.com/instance#Paper_139856224	http://research.publications.com/ontology#cites	http://research.publications.com/instance#Paper_166949395
+http://research.publications.com/instance#Company_1037	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://research.publications.com/ontology#Company
+http://research.publications.com/instance#City_for_1	http://research.publications.com/ontology#hasName	City_for_1
+http://research.publications.com/instance#Proceedings_Edition_e299080c-9ebc-4bc7-ae90-e1a70460c321	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://research.publications.com/ontology#Proceedings
+http://research.publications.com/instance#Proceedings_Edition_d747144c-c9eb-41b1-a900-1a7cf1f104be	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://research.publications.com/ontology#Proceedings
+http://research.publications.com/instance#Edition_e21bd19b-fe8c-4fab-80cb-aa1313b1f5fb	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://research.publications.com/ontology#Edition
+http://research.publications.com/instance#Paper_193494242	http://research.publications.com/ontology#hasYear	2016
+http://research.publications.com/instance#Conference_17f5c76b-9082-4140-9040-1c565a8bce21	http://research.publications.com/ontology#hasEdition	http://research.publications.com/instance#Edition_b8a7b7d0-adec-401d-a1d0-bcf154ee091e
+http://research.publications.com/instance#Volume_bb5783e2-1d38-4577-aa5e-f5c44ecb1b11	http://research.publications.com/ontology#hasYear	2022
+http://research.publications.com/instance#Paper_128776622	http://research.publications.com/ontology#publishedInJournal	http://research.publications.com/instance#Volume_0c98a0d1-a3ba-48f5-b819-27d48d2f9b92
+http://research.publications.com/instance#Paper_38839406	http://research.publications.com/ontology#cites	http://research.publications.com/instance#Paper_45881439
+http://research.publications.com/instance#Paper_137761863	http://research.publications.com/ontology#hasKeyword	http://research.publications.com/instance#Keyword_cloud_computing
+http://research.publications.com/instance#Edition_f2a80529-d3e4-4351-8f7a-357ac5f6330a	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://research.publications.com/ontology#Edition
+http://research.publications.com/instance#Paper_232002736	http://research.publications.com/ontology#cites	http://research.publications.com/instance#Paper_191662050
+http://research.publications.com/instance#Review_58113075_2078399506	http://research.publications.com/ontology#grade	5
+http://research.publications.com/instance#Volume_275c693d-f57c-47fc-9854-bf5b09377357	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://research.publications.com/ontology#Volume
+http://research.publications.com/instance#Paper_28199803	http://research.publications.com/ontology#cites	http://research.publications.com/instance#Paper_234561917
+http://research.publications.com/instance#Review_237842496_11699225	http://research.publications.com/ontology#grade	3
+http://research.publications.com/instance#Volume_8015a4e9-7d6c-45b7-933e-a9f065caed3a	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://research.publications.com/ontology#Volume
+http://research.publications.com/instance#Journal_44c9ee9e-e66d-438d-821c-a6d0bfc2749a	http://research.publications.com/ontology#hasVolume	http://research.publications.com/instance#Volume_9a135f03-534e-4383-8eb8-ed721ef32e3b
+http://research.publications.com/instance#Proceedings_Edition_5a621a7b-56bf-4ce2-aa6f-7fe0a767e467	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://research.publications.com/ontology#Proceedings
+http://research.publications.com/instance#Paper_35910203	http://research.publications.com/ontology#cites	http://research.publications.com/instance#Paper_110298854
+http://research.publications.com/instance#Conference_08b9ee40-e346-4e61-b6bf-f662f4a1a224	http://research.publications.com/ontology#hasEdition	http://research.publications.com/instance#Edition_cab9d2ce-6c25-43f5-9cc4-0897de18cf36
+http://research.publications.com/instance#Edition_b5fa5476-a905-4790-9577-9cdfa6af8dd1	http://research.publications.com/ontology#heldIn	http://research.publications.com/instance#City_for_1
+http://research.publications.com/instance#Author_2094549396	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://research.publications.com/ontology#Author
+http://research.publications.com/instance#Edition_1b4edfa9-d2e6-4151-818f-1918cf465513	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://research.publications.com/ontology#Edition
+http://research.publications.com/instance#Edition_e6d3b242-b4f0-4fb9-b5ae-872740b4ae8d	http://research.publications.com/ontology#hasName	6
+http://research.publications.com/instance#Review_199123959_2072129086	http://research.publications.com/ontology#reviewContent	The research is well-organized, and the arguments are clear. However, it could benefit from a more detailed discussion on future work.
+http://research.publications.com/instance#Paper_176496998	http://research.publications.com/ontology#cites	http://research.publications.com/instance#Paper_114821127
+http://research.publications.com/instance#Review_27244264_2314409110	http://research.publications.com/ontology#writtenByReviewer	http://research.publications.com/instance#Reviewer_2314409110
+http://research.publications.com/instance#Paper_131065985	http://research.publications.com/ontology#cites	http://research.publications.com/instance#Paper_16492375
+http://research.publications.com/instance#Paper_131065985	http://research.publications.com/ontology#hasAbstract	Abstract for paper: A review on the research and fisheries of Barramundi, reef fish, dugongs, turtles and spanish mackerel in the Papua New Guinea side of the Torres Strait
+http://research.publications.com/instance#Paper_153146977	http://research.publications.com/ontology#cites	http://research.publications.com/instance#Paper_110298854
+http://research.publications.com/instance#Edition_e6b022d5-07bb-4206-a915-f9a7701008fc	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://research.publications.com/ontology#Edition
+http://research.publications.com/instance#Volume_8818c07e-1e05-4928-a70b-087f11778011	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://research.publications.com/ontology#Volume
+http://research.publications.com/instance#Paper_67774686	http://research.publications.com/ontology#publishedInJournal	http://research.publications.com/instance#Volume_d2c34d5d-60a4-4f45-a9ee-af02a6e558bb
+http://research.publications.com/instance#Paper_96848430	http://research.publications.com/ontology#assignedTo	http://research.publications.com/instance#Reviewer_2212810753
+http://research.publications.com/instance#Volume_286b1d89-9ccf-431b-82a1-02cadbe46d77	http://research.publications.com/ontology#hasName	Volume 2
+http://research.publications.com/instance#Edition_a6624bde-f981-4a67-9f0a-87544e87e7e0	http://research.publications.com/ontology#hasStartDate	1963-01-13
+http://research.publications.com/instance#Edition_7941545b-47ed-4cb4-aea4-4a1743ea4816	http://research.publications.com/ontology#hasName	4
+http://research.publications.com/instance#Review_15395218_1405212200	http://research.publications.com/ontology#reviewOf	http://research.publications.com/instance#Paper_15395218
+http://research.publications.com/instance#Author_115725224	http://research.publications.com/ontology#affiliatedTo	http://research.publications.com/instance#Company_1043
+http://research.publications.com/instance#Paper_195728009	http://research.publications.com/ontology#hasAbstract	Abstract for paper: Taxonomic and Functional Annotation of Termite Degraded Butea monosperma (Lam.) Kuntze (Flame of the Forest)
+http://research.publications.com/instance#Author_25510217	http://research.publications.com/ontology#affiliatedTo	http://research.publications.com/instance#Company_1070
+http://research.publications.com/instance#Paper_235530281	http://research.publications.com/ontology#publishedInJournal	http://research.publications.com/instance#Volume_d7069bd9-e099-47ec-8d39-8f9bd39334b8
+http://research.publications.com/instance#Proceedings_Edition_533430d1-01ef-4db5-9904-dfa148a0a7d4	http://research.publications.com/ontology#hasName	Proceedings of 1
+http://research.publications.com/instance#Paper_237842496	http://research.publications.com/ontology#publishedInJournal	http://research.publications.com/instance#Volume_d7069bd9-e099-47ec-8d39-8f9bd39334b8
+http://research.publications.com/instance#Conference_cce4d150-8211-4378-a9ef-a234ec19414c	http://research.publications.com/ontology#hasEdition	http://research.publications.com/instance#Edition_dbd0ec6f-f14f-4116-abba-b869d0bd3630
+http://research.publications.com/instance#Paper_147951709	http://research.publications.com/ontology#publishedInJournal	http://research.publications.com/instance#Volume_84ef2516-b71c-4ffe-a1d2-e0e8c79bb90a
+http://research.publications.com/instance#Paper_41574606	http://research.publications.com/ontology#hasYear	1980
+http://research.publications.com/instance#Edition_542a45dd-3cbb-4c59-a259-5efcad0a9f73	http://research.publications.com/ontology#hasName	7
+http://research.publications.com/instance#Author_2054443841	http://research.publications.com/ontology#affiliatedTo	http://research.publications.com/instance#Company_1025
+http://research.publications.com/instance#Paper_83938103	http://research.publications.com/ontology#cites	http://research.publications.com/instance#Paper_166949395
+http://research.publications.com/instance#Paper_217235673	http://research.publications.com/ontology#cites	http://research.publications.com/instance#Paper_224305705
+http://research.publications.com/instance#Volume_17eeba10-a0a8-4121-98d5-7bcf27366905	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://research.publications.com/ontology#Volume
+http://research.publications.com/instance#Conference_a87210f6-84f9-4317-a00c-3286ce4f3dec	http://research.publications.com/ontology#hasEdition	http://research.publications.com/instance#Edition_aee7950e-b46e-4055-913d-a99a686fac4d
+http://research.publications.com/instance#Proceedings_Edition_f6deb6f8-a7c5-43c8-ac91-d03098e2e77a	http://research.publications.com/ontology#hasName	Proceedings of 2
+http://research.publications.com/instance#University_71	http://research.publications.com/ontology#hasName	National College
+http://research.publications.com/instance#Author_2314409110	http://research.publications.com/ontology#affiliatedTo	http://research.publications.com/instance#Company_1007
+http://research.publications.com/instance#Journal_bfcca754-6c59-4b8a-97b1-13eac9a99988	http://research.publications.com/ontology#hasVolume	http://research.publications.com/instance#Volume_3de40bba-9f5f-4930-a0d5-3322390c004d
+http://research.publications.com/instance#Paper_147951709	http://research.publications.com/ontology#hasYear	2010
+http://research.publications.com/instance#Company_1039	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://research.publications.com/ontology#Company
+http://research.publications.com/instance#Conference_c982de0b-7111-4ed2-8bb4-4c0e0a66b171	http://research.publications.com/ontology#hasEdition	http://research.publications.com/instance#Edition_eccb991b-8702-45bc-b37b-2930ec2f3b9a
+http://research.publications.com/instance#Journal_cf7a231d-56d1-46eb-bbda-06f602fafa30	http://research.publications.com/ontology#hasVolume	http://research.publications.com/instance#Volume_5f78fa3d-68ea-4dac-876f-99287899a8cb
+http://research.publications.com/instance#Paper_139856224	http://research.publications.com/ontology#cites	http://research.publications.com/instance#Paper_193494242
+http://research.publications.com/instance#Edition_e947a0f9-40ff-4fba-b30d-39cbcd34a850	http://research.publications.com/ontology#hasStartDate	1996-04-06
+http://research.publications.com/instance#Journal_5017deb2-77d5-4c9a-9bbc-cdea5cecca0e	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://research.publications.com/ontology#Journal
+http://research.publications.com/instance#Edition_17058c73-16b5-4485-b096-47b16bf635bd	http://research.publications.com/ontology#hasEndDate	1940-01-06
+http://research.publications.com/instance#Paper_41574606	http://research.publications.com/ontology#cites	http://research.publications.com/instance#Paper_153146977
+http://research.publications.com/instance#Paper_114391730	http://research.publications.com/ontology#publishedInJournal	http://research.publications.com/instance#Volume_d2c34d5d-60a4-4f45-a9ee-af02a6e558bb
+http://research.publications.com/instance#Conference_3656c155-e0de-49f0-b438-aa75162345df	http://research.publications.com/ontology#url	nan
+http://research.publications.com/instance#Review_224986272_2094549396	http://research.publications.com/ontology#grade	1
+http://research.publications.com/instance#Volume_d6676cc7-72c2-4047-8889-b622e24e8251	http://research.publications.com/ontology#hasName	Volume 2
+http://research.publications.com/instance#Paper_38839406	http://research.publications.com/ontology#cites	http://research.publications.com/instance#Paper_257891264
+http://research.publications.com/instance#Paper_171679629	http://research.publications.com/ontology#cites	http://research.publications.com/instance#Paper_193494242
+http://research.publications.com/instance#Conference_7039bd1c-5d23-4c62-8094-08a3cf534e4a	http://research.publications.com/ontology#hasEdition	http://research.publications.com/instance#Edition_0ca28365-2fac-4899-80df-8ec299310a38
+http://research.publications.com/instance#Paper_87417287	http://research.publications.com/ontology#cites	http://research.publications.com/instance#Paper_114821127
+http://research.publications.com/instance#Paper_227697209	http://research.publications.com/ontology#hasKeyword	http://research.publications.com/instance#Keyword_natural_language_processing
+http://research.publications.com/instance#Edition_ae3f112b-f0bd-4ea0-9575-fe61541e4c84	http://research.publications.com/ontology#hasName	5
+http://research.publications.com/instance#Paper_168917853	http://research.publications.com/ontology#cites	http://research.publications.com/instance#Paper_127200544
+http://research.publications.com/instance#Proceedings_Edition_0438ad6c-5457-42f3-91b6-8a9c42251798	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://research.publications.com/ontology#Proceedings
+http://research.publications.com/instance#Paper_16492375	http://research.publications.com/ontology#assignedTo	http://research.publications.com/instance#Reviewer_91427121
+http://research.publications.com/instance#Conference_052357a7-d8af-4014-9581-ddb0c5287f30	http://research.publications.com/ontology#hasName	Organisational Studies and Innovation Review (OSIR)
+http://research.publications.com/instance#Paper_128938719	http://research.publications.com/ontology#assignedTo	http://research.publications.com/instance#Reviewer_2327561551
+http://research.publications.com/instance#Paper_133758434	http://research.publications.com/ontology#assignedTo	http://research.publications.com/instance#Reviewer_1396011352
+http://research.publications.com/instance#Review_131065985_98115379	http://research.publications.com/ontology#reviewContent	The paper is well-written and presents a clear framework. However, some of the results seem inconclusive and need further clarification.
+http://research.publications.com/instance#Review_213039282_82272013	http://research.publications.com/ontology#writtenByReviewer	http://research.publications.com/instance#Reviewer_82272013
+http://research.publications.com/instance#Paper_176496998	http://research.publications.com/ontology#hasYear	2002
+http://research.publications.com/instance#Review_9930113_2054443841	http://research.publications.com/ontology#writtenByReviewer	http://research.publications.com/instance#Reviewer_2054443841
+http://research.publications.com/instance#Conference_795c40d0-0ed3-45a7-87c0-59efa03a53fa	http://research.publications.com/ontology#hasName	OECD Economic Surveys: Denmark
+http://research.publications.com/instance#Review_235484356_114237122	http://research.publications.com/ontology#writtenByReviewer	http://research.publications.com/instance#Reviewer_114237122
+http://research.publications.com/instance#Volume_abad8fe8-1e48-4646-8597-70120d3bb91d	http://research.publications.com/ontology#hasName	Volume 1
+http://research.publications.com/instance#Paper_111343877	http://research.publications.com/ontology#writtenBy	http://research.publications.com/instance#Author_94527622
+http://research.publications.com/instance#Paper_227697209	http://research.publications.com/ontology#hasKeyword	http://research.publications.com/instance#Keyword_internet_of_things
+http://research.publications.com/instance#Journal_6f0f05de-68df-4d50-95aa-f73ee3a4ab8e	http://research.publications.com/ontology#hasVolume	http://research.publications.com/instance#Volume_3ec24b69-5427-45b1-8667-f3b41264b808
+http://research.publications.com/instance#Paper_271178615	http://research.publications.com/ontology#cites	http://research.publications.com/instance#Paper_247019183
+http://research.publications.com/instance#Paper_42152825	http://research.publications.com/ontology#cites	http://research.publications.com/instance#Paper_28630532
+http://research.publications.com/instance#Proceedings_Edition_90ca3a54-2fc4-4943-a2f4-4cb59c31f031	http://research.publications.com/ontology#hasName	Proceedings of 4
+http://research.publications.com/ontology#publishedInJournal	http://www.w3.org/2000/01/rdf-schema#label	published in journal
+http://research.publications.com/instance#Paper_235530281	http://research.publications.com/ontology#publishedInJournal	http://research.publications.com/instance#Volume_9e9bfe87-97c9-44ad-81d1-8c09098c3714
+http://research.publications.com/instance#Journal_cf7a231d-56d1-46eb-bbda-06f602fafa30	http://research.publications.com/ontology#issn	0014-2166
+http://research.publications.com/instance#Paper_171679629	http://research.publications.com/ontology#hasKeyword	http://research.publications.com/instance#Keyword_cloud_computing
+http://research.publications.com/instance#Edition_73f285d1-6ce2-4944-a172-7aa892e8f5a9	http://research.publications.com/ontology#hasStartDate	2013-05-01
+http://research.publications.com/instance#Journal_6665a9d1-f363-4bd4-8759-3b16a4233da0	http://research.publications.com/ontology#hasVolume	http://research.publications.com/instance#Volume_5e367a2c-ea23-41e8-b0b1-825e2b417b8a
+http://research.publications.com/instance#Paper_27244264	http://research.publications.com/ontology#hasAbstract	Abstract for paper: Is Tumor Necrosis Factor-&agr; Friend or Foe for Chronic Heart Failure?
+http://research.publications.com/instance#Edition_f62421c2-f729-40cf-8166-cca3610fefe1	http://research.publications.com/ontology#heldIn	http://research.publications.com/instance#City_for_5
+http://research.publications.com/instance#Volume_ed237e44-c6da-4ccb-80a1-5907ed43b8a6	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://research.publications.com/ontology#Volume
