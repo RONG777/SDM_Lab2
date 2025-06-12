@@ -101,12 +101,30 @@ with torch.no_grad():
     entity_matrix = model.entity_embeddings.weight.data.cpu().numpy()
     relation_matrix = model.relation_embeddings.weight.data.cpu().numpy()
 
-# Compute predicted embedding of the cited paper: e_paper + w_cites
+# 1) Compute predicted embedding of the cited paper: e_paper + w_cites
 paper_vec = entity_matrix[ent2id[PAPER_URI]]
 cites_vec = relation_matrix[rel2id[CITES_URI]]
 predicted_cited_vec = paper_vec + cites_vec
 
-# Compute predicted author vector by inverting writtenBy: vec_cited - w_writtenBy
+print("Predicted embedding for the cited paper (dimension", EMBED_DIM, "):")
+print(predicted_cited_vec)
+
+# Filter only entities that are papers
+paper_ids = [ent2id[e] for e in entities if "Paper" in e or "paper" in e]
+paper_embeddings = entity_matrix[paper_ids]
+
+# Compute distances to the predicted vector
+distances = np.linalg.norm(paper_embeddings - predicted_cited_vec, axis=1)
+
+# Find the closest
+best_id = paper_ids[np.argmin(distances)]
+closest_paper = entities[best_id]
+closest_dist = distances.min()
+
+print(f"\nClosest paper in the KG: {closest_paper}")
+print(f"Distance to the predicted vector: {closest_dist:.4f}")
+
+# 2) Compute predicted author vector by inverting writtenBy: vec_cited - w_writtenBy
 writtenby_vec = relation_matrix[rel2id[WRITTENBY_URI]]
 predicted_author_vec = predicted_cited_vec - writtenby_vec
 
